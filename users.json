@@ -1,0 +1,235 @@
+{
+  "users": {
+    "고은성": {
+      "id": "고은성",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "권지오": {
+      "id": "권지오",
+      "password": "zio131212",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "김서진": {
+      "id": "김서진",
+      "password": "2039!!",
+      "role": "pro",
+      "isAdmin": true,
+      "isBanned": false
+    },
+    "김승현": {
+      "id": "김승현",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "김시연": {
+      "id": "김시연",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "김예준": {
+      "id": "김예준",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "김지연": {
+      "id": "김지연",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "김태환": {
+      "id": "김태환",
+      "password": "1234",
+      "role": "early access",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "김희래": {
+      "id": "김희래",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "남혜연": {
+      "id": "남혜연",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "노소율": {
+      "id": "노소율",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "박수현": {
+      "id": "박수현",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "박승아": {
+      "id": "박승아",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "박시윤": {
+      "id": "박시윤",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "박재근": {
+      "id": "박재근",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "신지윤": {
+      "id": "신지윤",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "신지혁": {
+      "id": "신지혁",
+      "password": "sjh0072020~!",
+      "role": "early access",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "심주원": {
+      "id": "심주원",
+      "password": "0203",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "유지안": {
+      "id": "유지안",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "유지호": {
+      "id": "유지호",
+      "password": "yjh13",
+      "role": "early access",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "이서영": {
+      "id": "이서영",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "이승정": {
+      "id": "이승정",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "이아영": {
+      "id": "이아영",
+      "password": "116116",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "이아윤": {
+      "id": "이아윤",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "이예온": {
+      "id": "이예온",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "장세령": {
+      "id": "장세령",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "정일후": {
+      "id": "정일후",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "조민기": {
+      "id": "조민기",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "최서아": {
+      "id": "최서아",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "최승민": {
+      "id": "최승민",
+      "password": "1234",
+      "role": "early access",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "최하윤": {
+      "id": "최하윤",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "한유주": {
+      "id": "한유주",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    },
+    "이윤하": {
+      "id": "이윤하",
+      "password": "1234",
+      "role": "basic",
+      "isAdmin": false,
+      "isBanned": false
+    }
+  }
+}
