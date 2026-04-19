@@ -1,20 +1,5 @@
 [
   {
-    "id": "fc15c2da-b4fc-43a3-ab2e-d256615592a2",
-    "author": "김서진",
-    "title": "이미지 테스트",
-    "content": "ㅇ",
-    "board": "free",
-    "images": [
-      "uploads/fc15c2da-b4fc-43a3-ab2e-d256615592a2.png"
-    ],
-    "likes": 0,
-    "liked_by": [],
-    "comments": [],
-    "views": 0,
-    "createdAt": "2026-04-19T10:05:00.397499"
-  },
-  {
     "id": "81dccc09-d679-4bbe-be10-20e82febac7a",
     "author": "김승현",
     "content": "테스트 내용입니다. 이미지 업로드 기능이 추가되었습니다.",
