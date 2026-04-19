@@ -5,7 +5,7 @@
       "password": "1234",
       "role": "basic",
       "isAdmin": false,
-      "isBanned": true
+      "isBanned": false
     },
     "권지오": {
       "id": "권지오",
