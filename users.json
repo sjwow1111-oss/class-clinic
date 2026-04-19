@@ -25,7 +25,7 @@
       "id": "김승현",
       "password": "1234",
       "role": "basic",
-      "isAdmin": false,
+      "isAdmin": true,
       "isBanned": false
     },
     "김시연": {
