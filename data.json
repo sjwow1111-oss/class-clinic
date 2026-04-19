@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "05d1f00d-a815-4182-8a5a-c7a573f9be81",
+    "author": "김서진",
+    "title": "V2 테스트",
+    "content": "이미지까지 테스트. 내가 이거 만들면서 오류난 사진",
+    "board": "free",
+    "images": [
+      "uploads/05d1f00d-a815-4182-8a5a-c7a573f9be81.png"
+    ],
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-04-19T11:33:57.251752"
+  }
+]
