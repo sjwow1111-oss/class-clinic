@@ -12,7 +12,14 @@
     "liked_by": [
       "김서진"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "f2aeb506-39ef-4b56-8fa5-e56b6a455cf1",
+        "author": "김서진",
+        "content": "댓글까쥐",
+        "createdAt": "2026-04-19T11:34:24.220434"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-19T11:33:57.251752"
   }
