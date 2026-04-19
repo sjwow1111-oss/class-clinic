@@ -6,7 +6,14 @@
     "images": [],
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "8e974ca2-d2cc-465f-a5f2-859962586b18",
+        "author": "김승현",
+        "content": "테스트 댓글 작성",
+        "createdAt": "2026-04-19T09:59:33.725428"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-19T07:55:54.913378"
   },
