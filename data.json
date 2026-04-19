@@ -61,8 +61,10 @@
     "author": "김서진",
     "content": "d",
     "images": [],
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김서진"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-04-19T07:32:48.489422"
