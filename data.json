@@ -1,23 +1,5 @@
 [
   {
-    "id": "81dccc09-d679-4bbe-be10-20e82febac7a",
-    "author": "김승현",
-    "content": "테스트 내용입니다. 이미지 업로드 기능이 추가되었습니다.",
-    "images": [],
-    "likes": 0,
-    "liked_by": [],
-    "comments": [
-      {
-        "id": "8e974ca2-d2cc-465f-a5f2-859962586b18",
-        "author": "김승현",
-        "content": "테스트 댓글 작성",
-        "createdAt": "2026-04-19T09:59:33.725428"
-      }
-    ],
-    "views": 0,
-    "createdAt": "2026-04-19T07:55:54.913378"
-  },
-  {
     "id": "f796c36e-4957-45d2-823e-98c8afb0723c",
     "author": "김서진",
     "content": "d",
