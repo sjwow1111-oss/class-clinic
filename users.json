@@ -19,7 +19,7 @@
       "password": "2039!!",
       "role": "pro",
       "isAdmin": true,
-      "isBanned": false
+      "isBanned": true
     },
     "김승현": {
       "id": "김승현",
