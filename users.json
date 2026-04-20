@@ -173,7 +173,7 @@
       "password": "1234",
       "role": "basic",
       "isAdmin": false,
-      "isBanned": false
+      "isBanned": true
     },
     "장세령": {
       "id": "장세령",
