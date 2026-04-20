@@ -1,20 +1,5 @@
 [
   {
-    "id": "c5ed0a73-b3fe-42ee-b176-b241deb4302e",
-    "author": "이예온",
-    "title": "보고있냐 김예준",
-    "content": "내가 돌아왔다 각오해라",
-    "board": "free",
-    "images": [
-      "uploads/c5ed0a73-b3fe-42ee-b176-b241deb4302e.jpg"
-    ],
-    "likes": 0,
-    "liked_by": [],
-    "comments": [],
-    "views": 0,
-    "createdAt": "2026-04-20T01:59:06.437149"
-  },
-  {
     "id": "05d1f00d-a815-4182-8a5a-c7a573f9be81",
     "author": "김서진",
     "title": "V2 테스트",
