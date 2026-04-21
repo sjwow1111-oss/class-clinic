@@ -8,8 +8,10 @@
     "images": [
       "uploads/d267517d-a538-4ca9-8dd9-871debdfe7b7.png"
     ],
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "이예온"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-04-21T05:04:43.236379"
