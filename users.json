@@ -117,7 +117,7 @@
       "password": "sjh0072020~!",
       "role": "early access",
       "isAdmin": false,
-      "isBanned": true
+      "isBanned": false
     },
     "심주원": {
       "id": "심주원",
