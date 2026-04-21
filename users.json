@@ -38,7 +38,7 @@
     "김예준": {
       "id": "김예준",
       "password": "1234",
-      "role": "basic",
+      "role": "early access",
       "isAdmin": false,
       "isBanned": false
     },
