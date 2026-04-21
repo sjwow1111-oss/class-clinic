@@ -1,5 +1,20 @@
 [
   {
+    "id": "713abfd5-7ecc-4e50-b78c-cd093c8f3511",
+    "author": "신지혁",
+    "title": "서진아 잘가.....",
+    "content": "잘가...,, .,,., ...,. ,.. ..,... ,.",
+    "board": "free",
+    "images": [
+      "uploads/713abfd5-7ecc-4e50-b78c-cd093c8f3511.jpg"
+    ],
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-04-21T00:09:23.017546"
+  },
+  {
     "id": "05d1f00d-a815-4182-8a5a-c7a573f9be81",
     "author": "김서진",
     "title": "V2 테스트",
