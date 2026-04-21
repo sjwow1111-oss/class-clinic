@@ -8,8 +8,10 @@
     "images": [
       "uploads/713abfd5-7ecc-4e50-b78c-cd093c8f3511.jpg"
     ],
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김서진"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-04-21T00:09:23.017546"
