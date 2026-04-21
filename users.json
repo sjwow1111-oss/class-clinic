@@ -40,7 +40,7 @@
       "password": "1234",
       "role": "pro",
       "isAdmin": false,
-      "isBanned": false
+      "isBanned": true
     },
     "김지연": {
       "id": "김지연",
