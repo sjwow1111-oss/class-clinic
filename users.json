@@ -136,7 +136,7 @@
     "유지호": {
       "id": "유지호",
       "password": "yjh13",
-      "role": "early access",
+      "role": "basic",
       "isAdmin": false,
       "isBanned": false
     },
