@@ -8,7 +8,14 @@
     "images": [],
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "8ba361ba-0476-4c87-abd3-3764c251bdd0",
+        "author": "이예온",
+        "content": "오징오징오징오징오징오징오징오징오징오징",
+        "createdAt": "2026-04-21T05:09:05.686644"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-21T05:08:51.972588"
   },
