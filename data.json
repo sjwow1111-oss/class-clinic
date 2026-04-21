@@ -8,7 +8,14 @@
     "images": [],
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "17e6dac2-cf5c-4c29-a12a-7fabadc0c4da",
+        "author": "이예온",
+        "content": "ㅇㅈ",
+        "createdAt": "2026-04-21T05:03:08.204353"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-21T04:56:26.826773"
   },
