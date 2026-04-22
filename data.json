@@ -8,8 +8,10 @@
     "images": [
       "uploads/beec64ee-497d-419b-9591-91a11178c160.jpeg"
     ],
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김예준"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-04-22T04:42:48.634165"
