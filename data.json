@@ -12,7 +12,14 @@
     "liked_by": [
       "김예준"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "a340fe0a-873b-4e32-a60a-88a08ae331bf",
+        "author": "이예온",
+        "content": "?",
+        "createdAt": "2026-04-22T11:37:35.954660"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-22T04:42:48.634165"
   },
