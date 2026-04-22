@@ -118,54 +118,5 @@
     ],
     "views": 0,
     "createdAt": "2026-04-21T00:09:23.017546"
-  },
-  {
-    "id": "05d1f00d-a815-4182-8a5a-c7a573f9be81",
-    "author": "김서진",
-    "title": "V2 테스트",
-    "content": "이미지까지 테스트. 내가 이거 만들면서 오류난 사진",
-    "board": "free",
-    "images": [
-      "uploads/05d1f00d-a815-4182-8a5a-c7a573f9be81.png"
-    ],
-    "likes": 2,
-    "liked_by": [
-      "김서진",
-      "유지호"
-    ],
-    "comments": [
-      {
-        "id": "f2aeb506-39ef-4b56-8fa5-e56b6a455cf1",
-        "author": "김서진",
-        "content": "댓글까쥐",
-        "createdAt": "2026-04-19T11:34:24.220434"
-      },
-      {
-        "id": "67dc5d69-af0e-4c9a-aa5c-4acc54c9594f",
-        "author": "신지혁",
-        "content": "붕어빵",
-        "createdAt": "2026-04-19T23:53:02.410212"
-      },
-      {
-        "id": "9183059e-193d-47f7-8608-c3d2f047e3c1",
-        "author": "유지호",
-        "content": "ㅋㅋ",
-        "createdAt": "2026-04-20T00:55:05.149595"
-      },
-      {
-        "id": "1ad52882-7853-48e2-b846-d0fba50a814a",
-        "author": "이예온",
-        "content": "김서진 벤 풀어라",
-        "createdAt": "2026-04-20T01:58:06.062711"
-      },
-      {
-        "id": "e3f0405a-2e98-43f7-be6e-ffb7601afda4",
-        "author": "김태환",
-        "content": "와와와",
-        "createdAt": "2026-04-20T06:23:56.250749"
-      }
-    ],
-    "views": 0,
-    "createdAt": "2026-04-19T11:33:57.251752"
   }
 ]
