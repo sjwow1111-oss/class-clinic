@@ -6,8 +6,10 @@
     "content": "모바일 최적화를 빼먹다니,빠르게 수정하겠습니다.\r\n게시글에 투표기능 추가할겁니다.",
     "board": "free",
     "images": [],
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김서진"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-04-22T13:48:42.793624"
