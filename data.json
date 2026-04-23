@@ -8,7 +8,14 @@
     "images": [],
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "820f3b13-2608-4e8f-b0c1-064ae38a9176",
+        "author": "신지혁",
+        "content": "I don’t know how you can get that so I can’t believe you.",
+        "createdAt": "2026-04-23T01:41:33.981003"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-23T01:37:27.248403"
   },
