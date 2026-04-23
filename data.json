@@ -30,7 +30,14 @@
     "images": [],
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "b63a8212-6803-4088-b9ec-bc871c7cddab",
+        "author": "김예준",
+        "content": "너가 오전 11시 47분 57초에 했잖아 붕세야",
+        "createdAt": "2026-04-23T01:12:07.043320"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-22T11:47:57.225271"
   },
