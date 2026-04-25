@@ -3,7 +3,7 @@
     "고은성": {
       "id": "고은성",
       "password": "1234",
-      "role": "early access",
+      "role": "pro",
       "isAdmin": false,
       "isBanned": false
     },
