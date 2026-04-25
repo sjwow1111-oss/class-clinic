@@ -8,7 +8,14 @@
     "images": [],
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "dfcbf761-9acc-4df2-a1bf-8d7b3454d836",
+        "author": "김태환",
+        "content": "ㄲㅂ",
+        "createdAt": "2026-04-25T15:50:00.195061"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-25T11:43:29.325851"
   },
