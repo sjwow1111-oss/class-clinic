@@ -10,7 +10,14 @@
     "liked_by": [
       "김서진"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "898fccba-a67c-4855-8c61-9eb2c8fe0504",
+        "author": "김서진",
+        "content": "아 그리고 게시글 ui도 수정함",
+        "createdAt": "2026-04-27T02:11:19.589856"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-27T02:07:36.170334"
   },
