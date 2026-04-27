@@ -10,7 +10,14 @@
     "liked_by": [
       "김서진"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "381aa771-2ed9-43ef-9da5-6028457b074a",
+        "author": "김서진",
+        "content": "이게 뭐노",
+        "createdAt": "2026-04-27T05:44:21.362947"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-27T05:22:57.419419"
   },
