@@ -173,7 +173,7 @@
       "password": "1234",
       "role": "early access",
       "isAdmin": false,
-      "isBanned": true
+      "isBanned": false
     },
     "장세령": {
       "id": "장세령",
