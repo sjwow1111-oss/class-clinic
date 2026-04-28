@@ -10,7 +10,14 @@
     "liked_by": [
       "김서진"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "53fdd16e-3bb8-46bd-a26d-2c01e443f53d",
+        "author": "김서진",
+        "content": "근데 오후2시 23분으로 뜨네 뭐야",
+        "createdAt": "2026-04-28T14:23:46.346892"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-28T14:23:02.475504"
   },
