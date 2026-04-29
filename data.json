@@ -34,8 +34,10 @@
     "content": "솔직히 내가 서진이랑 복싱으로 떠도 이길듯 ㅇㅇ",
     "board": "free",
     "images": [],
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "이예온"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-04-27T08:20:48.049920"
