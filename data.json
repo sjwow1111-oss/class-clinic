@@ -10,7 +10,14 @@
     ],
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "2139b4b3-f9bb-421d-a8eb-9d8881bab55d",
+        "author": "김예준",
+        "content": "야르",
+        "createdAt": "2026-04-30T09:27:41.824883"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-04-30T09:26:37.487403"
   },
