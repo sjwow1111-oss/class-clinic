@@ -26,7 +26,14 @@
     "liked_by": [
       "김서진"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "b0ca4cea-94e4-4f78-8770-fb6068c16410",
+        "author": "김서진",
+        "content": "poll",
+        "createdAt": "2026-05-01T07:15:29.382860"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-01T07:14:53.892321"
   },
