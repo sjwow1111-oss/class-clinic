@@ -1,5 +1,34 @@
 [
   {
+    "id": "e2a843dd-9db4-4d0b-a7e0-b92569ae597e",
+    "author": "김서진",
+    "title": "ㄹㅇㄴ",
+    "content": "ㅇㄹㅇㄹ",
+    "board": "free",
+    "images": [
+      "uploads/e2a843dd-9db4-4d0b-a7e0-b92569ae597e.png"
+    ],
+    "poll": {
+      "options": [
+        {
+          "id": "a4da909f-5c2d-4e0a-9230-8c6b260ad3d0",
+          "text": "ㄴㄷㄹ",
+          "votes": []
+        },
+        {
+          "id": "ec7d0bba-962d-4419-b716-00933d75fc9a",
+          "text": "ㅇㄴ",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-01T07:16:13.297394"
+  },
+  {
     "id": "2ab5d6e0-cc3f-43dd-9bda-eb3526fff737",
     "author": "김서진",
     "title": "투표기능을 테스트 해보갔어",
