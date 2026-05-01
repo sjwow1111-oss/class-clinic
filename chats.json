@@ -1,0 +1,50 @@
+{
+  "rooms": {
+    "5821d995-9c42-45df-9928-d08eb53417e4": {
+      "id": "5821d995-9c42-45df-9928-d08eb53417e4",
+      "name": "테스트방",
+      "is_private": false,
+      "code": null,
+      "messages": [
+        {
+          "id": "2949e435-bd9d-4a8a-b6e3-81652bd0db29",
+          "author": "김서진",
+          "type": "text",
+          "content": "테스트",
+          "createdAt": "2026-05-01T07:51:56.842441"
+        },
+        {
+          "id": "f2819c34-8f18-4274-b48b-4fde39b32fc8",
+          "author": "김서진",
+          "type": "text",
+          "content": "은성이 계정으로도 테스트",
+          "createdAt": "2026-05-01T07:52:25.308748"
+        },
+        {
+          "id": "a5cb46a7-1bff-4fef-9672-19ce6e9a2e1f",
+          "author": "고은성",
+          "type": "text",
+          "content": "이게 진짜 은성이 계정",
+          "createdAt": "2026-05-01T07:52:54.770088"
+        }
+      ],
+      "created_by": "김서진"
+    },
+    "1c63ddf8-170c-4645-a843-e0ffd13786fd": {
+      "id": "1c63ddf8-170c-4645-a843-e0ffd13786fd",
+      "name": "일베 모임",
+      "is_private": true,
+      "code": "985C00",
+      "messages": [
+        {
+          "id": "2b9c4a79-5177-4180-b2d0-3a933cfa0a0f",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅇㅋ 준비됐어",
+          "createdAt": "2026-05-01T07:54:50.041224"
+        }
+      ],
+      "created_by": "김서진"
+    }
+  }
+}
