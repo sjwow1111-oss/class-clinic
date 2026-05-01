@@ -19,7 +19,15 @@
       "password": "2039!!",
       "role": "pro",
       "isAdmin": true,
-      "isBanned": false
+      "isBanned": false,
+      "joined_rooms": [
+        {
+          "id": "5821d995-9c42-45df-9928-d08eb53417e4",
+          "name": "테스트방",
+          "type": "public",
+          "code": null
+        }
+      ]
     },
     "김승현": {
       "id": "김승현",
