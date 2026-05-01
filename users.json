@@ -34,6 +34,12 @@
           "name": "테스트방",
           "type": "public",
           "code": null
+        },
+        {
+          "id": "1c63ddf8-170c-4645-a843-e0ffd13786fd",
+          "name": "일베 모임",
+          "type": "private",
+          "code": "985C00"
         }
       ]
     },
