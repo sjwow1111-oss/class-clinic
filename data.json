@@ -1,36 +1,5 @@
 [
   {
-    "id": "2ab5d6e0-cc3f-43dd-9bda-eb3526fff737",
-    "author": "김서진",
-    "title": "투표기능을 테스트 해보갔어",
-    "content": "투표 해보라우\r\n나는.....",
-    "board": "free",
-    "images": [],
-    "poll": {
-      "options": [
-        {
-          "id": "a3fdcf01-c4f6-4370-b25f-24b307e3bcad",
-          "text": "일베다",
-          "votes": [
-            "김서진"
-          ]
-        },
-        {
-          "id": "b7408835-e5f4-4038-a187-9f0e815dd371",
-          "text": "일베가 아니다",
-          "votes": []
-        }
-      ]
-    },
-    "likes": 1,
-    "liked_by": [
-      "김서진"
-    ],
-    "comments": [],
-    "views": 0,
-    "createdAt": "2026-05-01T07:14:53.892321"
-  },
-  {
     "id": "4967fc4a-3707-4487-900e-d2a26dde397b",
     "author": "김예준",
     "title": "울반 일베 가입하실분 구해여반 일베 가입하실분 구해여",
