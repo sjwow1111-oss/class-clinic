@@ -45,6 +45,30 @@
         }
       ],
       "created_by": "김서진"
+    },
+    "27654d21-f706-4df6-8568-29def11de6b8": {
+      "id": "27654d21-f706-4df6-8568-29def11de6b8",
+      "name": "응애",
+      "is_private": false,
+      "code": null,
+      "messages": [],
+      "created_by": "김서진"
+    },
+    "d9ff2a0c-8ba5-4d21-85c1-80dd84e4c7f3": {
+      "id": "d9ff2a0c-8ba5-4d21-85c1-80dd84e4c7f3",
+      "name": "테스트-개인",
+      "is_private": true,
+      "code": "5DE2A4",
+      "messages": [
+        {
+          "id": "b6fd5ed9-af5e-4c64-8212-d68e628a0b7b",
+          "author": "김태환",
+          "type": "text",
+          "content": "응애",
+          "createdAt": "2026-05-02T10:10:35.845074"
+        }
+      ],
+      "created_by": "김서진"
     }
   }
 }
