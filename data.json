@@ -1,5 +1,19 @@
 [
   {
+    "id": "5bd9f624-bf74-4204-97fd-697d3c380402",
+    "author": "이예온",
+    "title": "서진이 이상한 게시글 어디감",
+    "content": "진짜 어디갔지",
+    "board": "free",
+    "images": [],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-02T09:13:19.647852"
+  },
+  {
     "id": "d98426cd-7d89-4f30-ab70-b6f9a438c43d",
     "author": "김태환",
     "title": "꺽",
