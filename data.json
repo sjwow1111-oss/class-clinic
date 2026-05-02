@@ -11,7 +11,14 @@
     "liked_by": [
       "김서진"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "c12e38ed-f3a3-48a7-aa35-00b0bd10b463",
+        "author": "김서진",
+        "content": "내가 삭제함",
+        "createdAt": "2026-05-02T09:43:34.290450"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-02T09:13:19.647852"
   },
