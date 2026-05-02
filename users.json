@@ -34,6 +34,12 @@
           "name": "테스트방",
           "type": "public",
           "code": null
+        },
+        {
+          "id": "27654d21-f706-4df6-8568-29def11de6b8",
+          "name": "응애",
+          "type": "public",
+          "code": null
         }
       ]
     },
@@ -56,7 +62,7 @@
       "password": "1234",
       "role": "pro",
       "isAdmin": false,
-      "isBanned": false,
+      "isBanned": false
     },
     "김지연": {
       "id": "김지연",
