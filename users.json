@@ -40,6 +40,12 @@
           "name": "응애",
           "type": "public",
           "code": null
+        },
+        {
+          "id": "d9ff2a0c-8ba5-4d21-85c1-80dd84e4c7f3",
+          "name": "테스트-개인",
+          "type": "private",
+          "code": "5DE2A4"
         }
       ]
     },
