@@ -1,5 +1,21 @@
 [
   {
+    "id": "d98426cd-7d89-4f30-ab70-b6f9a438c43d",
+    "author": "김태환",
+    "title": "꺽",
+    "content": "미세먼진가",
+    "board": "free",
+    "images": [
+      "uploads/d98426cd-7d89-4f30-ab70-b6f9a438c43d.jpg"
+    ],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-02T06:08:52.538856"
+  },
+  {
     "id": "ced0c25d-df49-49b1-96d4-ea629a828f56",
     "author": "김서진",
     "title": "빅-업데이트 기획중",
