@@ -1,34 +1,5 @@
 [
   {
-    "id": "bc53b615-4bf6-491d-9521-84959092c99c",
-    "author": "김서진",
-    "title": "응애",
-    "content": "으앙",
-    "board": "free",
-    "images": [],
-    "poll": {
-      "options": [
-        {
-          "id": "9e81d2c3-ecf2-41d5-a4e8-6035625325cd",
-          "text": "앙",
-          "votes": []
-        },
-        {
-          "id": "00bc8d91-bb9b-4c74-9719-09eb7c2f905e",
-          "text": "앙 기모띠",
-          "votes": [
-            "김서진"
-          ]
-        }
-      ]
-    },
-    "likes": 0,
-    "liked_by": [],
-    "comments": [],
-    "views": 0,
-    "createdAt": "2026-05-02T10:03:14.506821"
-  },
-  {
     "id": "1aab543d-96c3-44d0-8d88-d3e87ef925e5",
     "author": "김서진",
     "title": "애들이 연휴에 이 사이트 써주니까",
