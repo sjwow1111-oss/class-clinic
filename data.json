@@ -9,8 +9,10 @@
       "uploads/d98426cd-7d89-4f30-ab70-b6f9a438c43d.jpg"
     ],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김서진"
+    ],
     "comments": [
       {
         "id": "60439c6a-37b4-4efe-8ffd-d182eee6b853",
