@@ -89,6 +89,12 @@
           "name": "테스트-개인",
           "type": "private",
           "code": "5DE2A4"
+        },
+        {
+          "id": "5821d995-9c42-45df-9928-d08eb53417e4",
+          "name": "테스트방",
+          "type": "public",
+          "code": null
         }
       ]
     },
