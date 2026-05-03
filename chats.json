@@ -26,6 +26,13 @@
           "type": "text",
           "content": "이게 진짜 은성이 계정",
           "createdAt": "2026-05-01T07:52:54.770088"
+        },
+        {
+          "id": "6ef9df56-a138-43c4-8b24-f89b5ce6db3a",
+          "author": "김태환",
+          "type": "text",
+          "content": "이런건 언제만듬",
+          "createdAt": "2026-05-03T14:09:14.705997"
         }
       ],
       "created_by": "김서진"
