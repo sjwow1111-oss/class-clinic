@@ -46,6 +46,12 @@
           "name": "테스트-개인",
           "type": "private",
           "code": "5DE2A4"
+        },
+        {
+          "id": "b5b898a0-b3e5-4e48-9303-56493d441ca9",
+          "name": "일베방",
+          "type": "private",
+          "code": "FFCD04"
         }
       ]
     },
