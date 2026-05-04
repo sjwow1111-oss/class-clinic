@@ -1,5 +1,21 @@
 [
   {
+    "id": "b793dc33-83a9-4120-ac21-5bebe80c834d",
+    "author": "김태환",
+    "title": "어이",
+    "content": "다 덤벼",
+    "board": "free",
+    "images": [
+      "uploads/b793dc33-83a9-4120-ac21-5bebe80c834d.jpeg"
+    ],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-04T13:22:58.829628"
+  },
+  {
     "id": "c6f75ac1-8e47-4aad-b730-e871576d32b1",
     "author": "이예온",
     "title": "서진이에게",
