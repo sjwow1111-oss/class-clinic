@@ -11,7 +11,14 @@
     "liked_by": [
       "김서진"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "4fdd0df9-a62a-49dc-bd7d-1f2368cd3744",
+        "author": "김서진",
+        "content": "Thank you",
+        "createdAt": "2026-05-04T08:55:23.966570"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-04T08:54:27.586434"
   },
