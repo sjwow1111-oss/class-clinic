@@ -7,8 +7,10 @@
     "board": "free",
     "images": [],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김서진"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-05-04T08:59:20.331606"
