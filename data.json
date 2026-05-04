@@ -1,5 +1,19 @@
 [
   {
+    "id": "c6f75ac1-8e47-4aad-b730-e871576d32b1",
+    "author": "이예온",
+    "title": "서진이에게",
+    "content": "영상이나 링크 첨부도 가능하게 해주세요 불편함요",
+    "board": "free",
+    "images": [],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-04T10:15:14.490363"
+  },
+  {
     "id": "8f8edc7e-3fa2-4408-9b00-878990cc7ba9",
     "author": "김서진",
     "title": "클래스 클리닉 정규 파트너 모집공고",
@@ -7,10 +21,9 @@
     "board": "free",
     "images": [],
     "poll": null,
-    "likes": 2,
+    "likes": 1,
     "liked_by": [
-      "김서진",
-      "이예온"
+      "김서진"
     ],
     "comments": [
       {
