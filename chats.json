@@ -138,6 +138,48 @@
           "type": "text",
           "content": "문자오면 알림 기능도 넣어야겠다",
           "createdAt": "2026-05-04T07:39:15.452546"
+        },
+        {
+          "id": "1d822f84-cb94-4196-ba7f-7b5f96596157",
+          "author": "김서진",
+          "type": "text",
+          "content": "알람 테스트",
+          "createdAt": "2026-05-04T07:47:10.635275"
+        },
+        {
+          "id": "4dc4fa62-b211-4f67-9472-6182211feb6f",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅎ",
+          "createdAt": "2026-05-04T07:47:15.647117"
+        },
+        {
+          "id": "b6617a1f-d89c-4998-b51d-e3ab792df72b",
+          "author": "김서진",
+          "type": "text",
+          "content": "d",
+          "createdAt": "2026-05-04T07:48:13.117609"
+        },
+        {
+          "id": "f2ebc4e7-1105-4d0e-8720-da949113e4b3",
+          "author": "김서진",
+          "type": "text",
+          "content": "아 맞다",
+          "createdAt": "2026-05-04T07:48:30.157529"
+        },
+        {
+          "id": "52abadd7-b186-48e0-82f4-8c2b38086e6b",
+          "author": "김서진",
+          "type": "text",
+          "content": "알람 허용해야해",
+          "createdAt": "2026-05-04T07:48:35.698996"
+        },
+        {
+          "id": "71899870-81c5-4ca7-8bfe-61ba7c22c75c",
+          "author": "김서진",
+          "type": "text",
+          "content": "그 권한 설정하라고 뜨면",
+          "createdAt": "2026-05-04T07:48:44.478868"
         }
       ],
       "created_by": "김서진"
