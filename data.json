@@ -7,8 +7,10 @@
     "board": "free",
     "images": [],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "이예온"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-05-04T06:37:41.145382"
