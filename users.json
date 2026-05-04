@@ -231,7 +231,7 @@
     "이예온": {
       "id": "이예온",
       "password": "1234",
-      "role": "early access",
+      "role": "pro",
       "isAdmin": false,
       "isBanned": false
     },
