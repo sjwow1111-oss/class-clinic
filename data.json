@@ -60,7 +60,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "cb6f3248-73d7-4a1d-84ac-35b8f60bd25b",
+        "author": "김예준",
+        "content": "야동 올리게?",
+        "createdAt": "2026-05-05T23:54:42.133996"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-04T10:15:14.490363"
   },
