@@ -229,6 +229,13 @@
           "type": "text",
           "content": "응애",
           "createdAt": "2026-05-06T05:10:46.277980"
+        },
+        {
+          "id": "98afd5b4-2f26-45f2-9042-1c6dc4451913",
+          "author": "김태환",
+          "type": "text",
+          "content": "알림이 안와서",
+          "createdAt": "2026-05-06T07:55:21.284605"
         }
       ],
       "created_by": "김서진"
