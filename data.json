@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "49b77f51-c309-4bc5-8bcb-4026bcd50807",
+        "author": "김태환",
+        "content": "알라신은 알라 시바신을 시바",
+        "createdAt": "2026-05-07T12:26:17.636146"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-06T23:40:58.821735"
   },
