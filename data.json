@@ -1,5 +1,21 @@
 [
   {
+    "id": "40bf3be3-7f7d-456b-9650-2f8bbac5e38d",
+    "author": "김태환",
+    "title": "수학",
+    "content": "맵씨강사 1티어임",
+    "board": "free",
+    "images": [
+      "uploads/40bf3be3-7f7d-456b-9650-2f8bbac5e38d.jpeg"
+    ],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-09T08:11:59.032693"
+  },
+  {
     "id": "d58853bd-8f35-46ca-b234-c5e3a72e4eff",
     "author": "김서진",
     "title": "개근시티 가사 배포",
