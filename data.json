@@ -7,8 +7,10 @@
     "board": "free",
     "images": [],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김예준"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-05-09T04:36:19.710840"
