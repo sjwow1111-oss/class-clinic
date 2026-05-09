@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "2eccd1c5-e5f0-4655-93be-b1b99ae6994d",
+        "author": "김태환",
+        "content": "근보드 차트 1위 곡임",
+        "createdAt": "2026-05-09T08:07:43.550790"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-09T07:04:46.048443"
   },
