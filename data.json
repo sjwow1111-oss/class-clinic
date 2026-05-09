@@ -25,7 +25,14 @@
     "liked_by": [
       "김예준"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "19cb2893-c81c-44b0-a061-9442b0ec681a",
+        "author": "김서진",
+        "content": "ㅇ",
+        "createdAt": "2026-05-09T07:04:55.519572"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-09T04:36:19.710840"
   },
