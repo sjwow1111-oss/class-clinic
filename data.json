@@ -9,8 +9,10 @@
       "uploads/40bf3be3-7f7d-456b-9650-2f8bbac5e38d.jpeg"
     ],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "최승민"
+    ],
     "comments": [
       {
         "id": "2750aef3-9545-4a3b-b7c2-e746a7d3647d",
@@ -30,8 +32,10 @@
     "board": "free",
     "images": [],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김예준"
+    ],
     "comments": [
       {
         "id": "2eccd1c5-e5f0-4655-93be-b1b99ae6994d",
