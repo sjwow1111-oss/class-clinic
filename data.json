@@ -1,5 +1,32 @@
 [
   {
+    "id": "e39b8215-78fb-4a1f-8574-32ba7785f57b",
+    "author": "이예온",
+    "title": "월주제때 이거 하고있음 개추",
+    "content": "태블릿으로 이거 하고있다 올린거 보고 신난 서진이면 개추",
+    "board": "free",
+    "images": [],
+    "poll": {
+      "options": [
+        {
+          "id": "710fe638-c3de-4031-9dc6-f0be786a332a",
+          "text": "닭이먼저다",
+          "votes": []
+        },
+        {
+          "id": "2dc86561-62bd-46a2-89ca-71ce23491ed1",
+          "text": "달걀이먼저다",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-11T04:40:03.240796"
+  },
+  {
     "id": "40bf3be3-7f7d-456b-9650-2f8bbac5e38d",
     "author": "김태환",
     "title": "수학",
