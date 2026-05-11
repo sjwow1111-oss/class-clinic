@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "100b1a0b-e2c3-49ad-8aa0-8535f9a194bd",
+        "author": "김서진",
+        "content": "야이 새끼야",
+        "createdAt": "2026-05-11T05:22:19.249820"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-11T05:20:04.601352"
   },
