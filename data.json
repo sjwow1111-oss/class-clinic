@@ -24,7 +24,14 @@
     },
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "8adfa3ff-0322-4e2b-ad05-0e9f9cd36dbb",
+        "author": "이예온",
+        "content": "참고로 난 닭이 먼저라고 생각한다. 개추",
+        "createdAt": "2026-05-11T04:40:28.898219"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-11T04:40:03.240796"
   },
