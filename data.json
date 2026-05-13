@@ -1,5 +1,32 @@
 [
   {
+    "id": "08e76a30-633f-4734-8390-4aa8c711b70c",
+    "author": "김태환",
+    "title": "파랑빨강",
+    "content": "응애",
+    "board": "free",
+    "images": [],
+    "poll": {
+      "options": [
+        {
+          "id": "fccd4f07-bfeb-4bfb-b16f-f3cdafd0b647",
+          "text": "민주당",
+          "votes": []
+        },
+        {
+          "id": "a56416bc-3200-4f18-b1a1-37861029d65f",
+          "text": "국힘",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-13T06:40:09.335944"
+  },
+  {
     "id": "77f2dfa0-ccb4-4451-ae26-6a4c5766e435",
     "author": "김서진",
     "title": "응애",
