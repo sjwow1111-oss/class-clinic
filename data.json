@@ -27,7 +27,14 @@
     },
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "6922385b-9c01-4dad-bb24-b9a784a38b86",
+        "author": "이예온",
+        "content": "누가 이걸 국힘을 고르냐",
+        "createdAt": "2026-05-14T05:54:03.431120"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-13T06:40:09.335944"
   },
