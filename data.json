@@ -32,7 +32,14 @@
     },
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "0c658360-f673-4556-bec6-fe6f6181dcb2",
+        "author": "김서진",
+        "content": "아 오타",
+        "createdAt": "2026-05-14T06:00:45.342991"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-14T06:00:32.418861"
   },
