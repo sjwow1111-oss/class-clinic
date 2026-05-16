@@ -40,7 +40,14 @@
     },
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "263f4f5e-fe21-466c-9f92-beeb320b84e2",
+        "author": "김예준",
+        "content": "ㅅㅂ 누가 누구한테 당했다는거야? 섬지가 당힌거지?",
+        "createdAt": "2026-05-16T13:01:03.168683"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-14T23:55:17.954747"
   },
