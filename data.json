@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "be7a0e15-e0dc-4850-8d2a-2a05b9f8cbb2",
+        "author": "김태환",
+        "content": "째고 피시방 갔대",
+        "createdAt": "2026-05-18T13:11:43.372712"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-18T04:46:51.087802"
   },
