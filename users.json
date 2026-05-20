@@ -58,7 +58,7 @@
     "김승현": {
       "id": "김승현",
       "password": "1234",
-      "role": "basic",
+      "role": "pro",
       "isAdmin": true,
       "isBanned": false
     },
