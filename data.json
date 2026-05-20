@@ -11,7 +11,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "ffc936af-0a53-4739-95d1-9d90e614e3e8",
+        "author": "김희래",
+        "content": "? Ai가 그랬음?",
+        "createdAt": "2026-05-20T03:48:46.949886"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-19T15:05:53.876119"
   },
