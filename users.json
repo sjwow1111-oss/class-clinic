@@ -18,7 +18,7 @@
     "권지오": {
       "id": "권지오",
       "password": "zio131212",
-      "role": "basic",
+      "role": "pro",
       "isAdmin": false,
       "isBanned": false
     },
