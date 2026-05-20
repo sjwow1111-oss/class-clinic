@@ -1,5 +1,32 @@
 [
   {
+    "id": "f94da3a0-799a-4600-a654-589887bccffb",
+    "author": "김희래",
+    "title": "수주제에 심심해서 함",
+    "content": "이제 뭐하지?",
+    "board": "free",
+    "images": [],
+    "poll": {
+      "options": [
+        {
+          "id": "132f88a5-8146-4a12-9184-36650afaf175",
+          "text": "수주제 재미있음",
+          "votes": []
+        },
+        {
+          "id": "5d9caeb5-a4c1-4674-a38b-04dc2f2e28e0",
+          "text": "수주제 재미없음",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-20T06:03:30.041572"
+  },
+  {
     "id": "1511ed68-9ab6-42db-9c0a-abde52febe1a",
     "author": "김태환",
     "title": "5/20일 12:4분",
