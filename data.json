@@ -1,5 +1,21 @@
 [
   {
+    "id": "0ef29085-ebe3-4931-8943-3cc10b49dc8d",
+    "author": "김태환",
+    "title": "노 진구",
+    "content": "이딴 짤은 누가만든거임ㅋㅋ",
+    "board": "free",
+    "images": [
+      "uploads/0ef29085-ebe3-4931-8943-3cc10b49dc8d.jpeg"
+    ],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-24T17:13:14.051870"
+  },
+  {
     "id": "2967bf2f-9737-4b4f-862a-6435f943c1a4",
     "author": "김서진",
     "title": "dd",
