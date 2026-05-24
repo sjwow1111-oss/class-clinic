@@ -25,7 +25,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "f06f7a1d-9db8-45a9-9dad-c3729c265264",
+        "author": "김태환",
+        "content": "이현재 개많이보임",
+        "createdAt": "2026-05-24T17:11:56.236683"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-23T08:23:28.314587"
   },
