@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "7b49a662-fd7f-438a-bf39-293036cec1fe",
+        "author": "이예온",
+        "content": "개추말고 소추",
+        "createdAt": "2026-05-25T11:54:47.059128"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-25T06:05:51.187574"
   },
