@@ -11,7 +11,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "8b98493c-9f1a-43a0-8f03-9720c235a82d",
+        "author": "김서진",
+        "content": "오 쉬엣",
+        "createdAt": "2026-05-25T06:01:54.442401"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-24T17:13:14.051870"
   },
