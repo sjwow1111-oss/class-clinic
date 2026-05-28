@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "776689b1-af96-477f-97e7-cdba26151392",
+        "author": "김태환",
+        "content": "스틱맨 스틱맨",
+        "createdAt": "2026-05-28T12:16:40.124429"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-05-28T11:04:18.291286"
   },
