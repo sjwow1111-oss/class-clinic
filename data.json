@@ -1,5 +1,34 @@
 [
   {
+    "id": "6d3f7fd4-debd-4db1-9037-de5e622a3b7a",
+    "author": "이예온",
+    "title": "주식은 강평",
+    "content": "형이야",
+    "board": "free",
+    "images": [
+      "uploads/6d3f7fd4-debd-4db1-9037-de5e622a3b7a.png"
+    ],
+    "poll": {
+      "options": [
+        {
+          "id": "468889be-c5cc-4690-aeee-5595cd949299",
+          "text": "살까",
+          "votes": []
+        },
+        {
+          "id": "a172c7a9-75cb-4e21-9658-3139588edaea",
+          "text": "말까",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-05-29T03:48:12.997892"
+  },
+  {
     "id": "07ff7392-332b-4f74-9651-4f014f5eccf5",
     "author": "이예온",
     "title": "그래서",
@@ -7,10 +36,8 @@
     "board": "free",
     "images": [],
     "poll": null,
-    "likes": 1,
-    "liked_by": [
-      "이예온"
-    ],
+    "likes": 0,
+    "liked_by": [],
     "comments": [
       {
         "id": "776689b1-af96-477f-97e7-cdba26151392",
