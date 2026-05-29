@@ -281,7 +281,15 @@
       "password": "1234",
       "role": "basic",
       "isAdmin": false,
-      "isBanned": false
+      "isBanned": false,
+      "joined_rooms": [
+        {
+          "id": "519fb9e8-252b-4b5b-a676-c80a60f5f8b8",
+          "name": "공개채팅방",
+          "type": "public",
+          "code": null
+        }
+      ]
     },
     "조민기": {
       "id": "조민기",
