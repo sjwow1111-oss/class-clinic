@@ -13,7 +13,14 @@
     "liked_by": [
       "김예준"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "id": "f73a7d0d-30cf-47b0-aa9b-9d40f34321bc",
+        "author": "김태환",
+        "content": "나도 한알만",
+        "createdAt": "2026-06-02T17:24:35.825078"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-06-02T13:26:00.257368"
   },
