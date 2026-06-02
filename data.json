@@ -9,8 +9,10 @@
       "uploads/89018b6d-fa16-421e-94e1-f7bfe7d23652.jpg"
     ],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김예준"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-06-02T13:26:00.257368"
