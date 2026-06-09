@@ -1,5 +1,32 @@
 [
   {
+    "id": "a5135b01-09e7-4f85-9070-1a4e02c23fc7",
+    "author": "최승민",
+    "title": "누가더 좋나요?",
+    "content": "나의 사랑",
+    "board": "qna",
+    "images": [],
+    "poll": {
+      "options": [
+        {
+          "id": "9d2d30ad-ed07-4a55-8656-0f7a16e96bbe",
+          "text": "여자",
+          "votes": []
+        },
+        {
+          "id": "557ccbd5-1449-4983-bb10-fb54869d5a24",
+          "text": "남자",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-06-09T00:36:35.821429"
+  },
+  {
     "id": "40571d4f-0c6a-4d6c-ae8d-7cea991bd454",
     "author": "김희래",
     "title": "Ai 투터 대답이 안떠요",
