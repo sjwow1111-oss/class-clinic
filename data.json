@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "1145182f-3c18-405e-bbc6-7bd3622322c4",
+        "author": "김희래",
+        "content": "개근이라 하고싶음?",
+        "createdAt": "2026-06-12T04:43:57.670419"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-06-11T16:23:19.387570"
   },
