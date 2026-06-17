@@ -1,19 +1,5 @@
 [
   {
-    "id": "e7b85fd6-29d1-4c0b-9c76-5d09099fc8f2",
-    "author": "김승현",
-    "title": "발로 배@울분",
-    "content": "발로 배울분",
-    "board": "free",
-    "images": [],
-    "poll": null,
-    "likes": 0,
-    "liked_by": [],
-    "comments": [],
-    "views": 0,
-    "createdAt": "2026-06-17T05:54:50.952879"
-  },
-  {
     "id": "ffd360e8-55a4-4c34-a35c-363f315666e4",
     "author": "김서진",
     "title": "AI기능 복구 완료",
