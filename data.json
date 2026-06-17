@@ -1,5 +1,21 @@
 [
   {
+    "id": "3276693c-7d6e-4548-a9eb-7ffbab04e95a",
+    "author": "김승현",
+    "title": "발로배울분",
+    "content": "발로배울분구함",
+    "board": "free",
+    "images": [
+      "uploads/3276693c-7d6e-4548-a9eb-7ffbab04e95a.jpeg"
+    ],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-06-17T05:59:56.834908"
+  },
+  {
     "id": "ffd360e8-55a4-4c34-a35c-363f315666e4",
     "author": "김서진",
     "title": "AI기능 복구 완료",
