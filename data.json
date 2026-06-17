@@ -11,7 +11,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "6b4068c7-dec1-4abc-8277-d77749be939b",
+        "author": "김서진",
+        "content": "아 왜 2021인데",
+        "createdAt": "2026-06-17T09:21:55.275062"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-06-17T05:59:56.834908"
   },
