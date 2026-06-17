@@ -72,7 +72,15 @@
       "password": "1234",
       "role": "pro",
       "isAdmin": true,
-      "isBanned": false
+      "isBanned": false,
+      "joined_rooms": [
+        {
+          "id": "c3163510-8d2d-4fab-a612-7d1d8d7bbc2e",
+          "name": "수주제에서 들어오는",
+          "type": "public",
+          "code": null
+        }
+      ]
     },
     "김시연": {
       "id": "김시연",
