@@ -79,6 +79,12 @@
           "name": "수주제에서 들어오는",
           "type": "public",
           "code": null
+        },
+        {
+          "id": "519fb9e8-252b-4b5b-a676-c80a60f5f8b8",
+          "name": "공개채팅방",
+          "type": "public",
+          "code": null
         }
       ]
     },
