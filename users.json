@@ -71,7 +71,7 @@
       "id": "김승현",
       "password": "1234",
       "role": "pro",
-      "isAdmin": false,
+      "isAdmin": true,
       "isBanned": false,
       "joined_rooms": [
         {
