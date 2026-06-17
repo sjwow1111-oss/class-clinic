@@ -96,7 +96,14 @@
     },
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "38f316ce-f13b-487f-b797-1165b72e1a01",
+        "author": "김승현",
+        "content": "여자용",
+        "createdAt": "2026-06-17T05:56:56.591320"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-06-09T00:36:35.821429"
   },
