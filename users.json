@@ -29,6 +29,42 @@
       "isAdmin": true,
       "isBanned": false,
       "joined_rooms": [
+        {
+          "id": "5821d995-9c42-45df-9928-d08eb53417e4",
+          "name": "테스트방",
+          "type": "public",
+          "code": null
+        },
+        {
+          "id": "27654d21-f706-4df6-8568-29def11de6b8",
+          "name": "응애",
+          "type": "public",
+          "code": null
+        },
+        {
+          "id": "d9ff2a0c-8ba5-4d21-85c1-80dd84e4c7f3",
+          "name": "테스트-개인",
+          "type": "private",
+          "code": "5DE2A4"
+        },
+        {
+          "id": "b5b898a0-b3e5-4e48-9303-56493d441ca9",
+          "name": "일베방",
+          "type": "private",
+          "code": "FFCD04"
+        },
+        {
+          "id": "519fb9e8-252b-4b5b-a676-c80a60f5f8b8",
+          "name": "공개채팅방",
+          "type": "public",
+          "code": null
+        },
+        {
+          "id": "c3163510-8d2d-4fab-a612-7d1d8d7bbc2e",
+          "name": "수주제에서 들어오는",
+          "type": "public",
+          "code": null
+        }
       ]
     },
     "김승현": {
