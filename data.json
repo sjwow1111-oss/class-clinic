@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "8fa15f84-876f-4aee-a99c-cf9da447deb1",
+        "author": "김태환",
+        "content": "솔직히 진심으로 섬지 나랑 야차 까면 내가 이길듯 ㅇㅇ 섬지 ㅈ밥",
+        "createdAt": "2026-06-18T14:52:05.204985"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-06-18T14:51:07.390757"
   },
