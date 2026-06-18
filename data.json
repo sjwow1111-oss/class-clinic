@@ -7,8 +7,10 @@
     "board": "free",
     "images": [],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김태환"
+    ],
     "comments": [],
     "views": 0,
     "createdAt": "2026-06-18T14:51:07.390757"
