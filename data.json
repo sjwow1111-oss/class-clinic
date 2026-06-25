@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "851babed-681c-48ac-8e6b-64ab21e7ed26",
+        "author": "김서진",
+        "content": "나승현인데 예준이 걍 개바름 ㅋㅋㅋ 느그는 나대지마 밖에 안하잖음ㅋㅋㅋㅋ",
+        "createdAt": "2026-06-25T03:24:05.430899"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-06-23T06:36:19.558015"
   },
