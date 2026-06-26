@@ -27,63 +27,6 @@
     "createdAt": "2026-06-23T06:36:19.558015"
   },
   {
-    "id": "fd561e7e-79ff-4314-9c26-bc933779a5b0",
-    "author": "김태환",
-    "title": "섬지",
-    "content": "ㅗ                                                ㅗ\r\nㅗ\r\nㅗ\r\nㅗ\r\nㅗ",
-    "board": "free",
-    "images": [],
-    "poll": null,
-    "likes": 0,
-    "liked_by": [],
-    "comments": [
-      {
-        "id": "8fa15f84-876f-4aee-a99c-cf9da447deb1",
-        "author": "김태환",
-        "content": "솔직히 진심으로 섬지 나랑 야차 까면 내가 이길듯 ㅇㅇ 섬지 ㅈ밥",
-        "createdAt": "2026-06-18T14:52:05.204985"
-      },
-      {
-        "id": "8ccf66fe-f951-4065-842c-b6cefefde9af",
-        "author": "김서진",
-        "content": "오 드루와",
-        "createdAt": "2026-06-18T23:52:27.771546"
-      },
-      {
-        "id": "2d228a22-3995-41ae-94f7-79cac1e23faa",
-        "author": "김태환",
-        "content": "ㄷㄷ",
-        "createdAt": "2026-06-22T23:49:57.612964"
-      },
-      {
-        "id": "cdf22b5b-6d84-4c94-b5b0-5ee5fd4d2ef7",
-        "author": "김태환",
-        "content": "드러와 슈벌",
-        "createdAt": "2026-06-22T23:50:18.969503"
-      },
-      {
-        "id": "661025ce-c746-4a5f-a0ed-9eef436804bd",
-        "author": "김태환",
-        "content": "솔직히 걍 오늘 때려 눞히고 싶은데 오늘 점심시간에 와라",
-        "createdAt": "2026-06-22T23:50:39.619600"
-      },
-      {
-        "id": "7291f3f0-be50-4943-b945-27c0d853b75e",
-        "author": "김예준",
-        "content": "?ㅋㅋㅋㅋㅋㅋㅋ",
-        "createdAt": "2026-06-22T23:53:27.331321"
-      },
-      {
-        "id": "872cf880-a582-444e-a576-7b7b114b79e6",
-        "author": "김예준",
-        "content": "걍 오늘 떠라 ㅇㅇ 10만원빵",
-        "createdAt": "2026-06-22T23:53:38.525805"
-      }
-    ],
-    "views": 0,
-    "createdAt": "2026-06-18T14:51:07.390757"
-  },
-  {
     "id": "c7a33a3e-9973-4491-b353-0f27cdce9e93",
     "author": "김예준",
     "title": "우리 BMW M5 사고시킨 차주 얼굴좀 보자",
