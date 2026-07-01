@@ -1,3 +1,629 @@
 {
-  "rooms": {}
+  "rooms": {
+    "5d68c86b-c563-4933-b595-8c1929dad003": {
+      "id": "5d68c86b-c563-4933-b595-8c1929dad003",
+      "name": "수주제",
+      "is_private": true,
+      "code": "C777A5",
+      "messages": [
+        {
+          "id": "86ebbb88-9787-486f-99aa-a87bba0c6ee5",
+          "author": "김서진",
+          "type": "text",
+          "content": "응애",
+          "createdAt": "2026-07-01T04:58:09.297762"
+        },
+        {
+          "id": "e8b7ec2d-eb5d-49e9-a8f7-1352a69a5ba7",
+          "author": "김승현",
+          "type": "text",
+          "content": "?",
+          "createdAt": "2026-07-01T04:59:03.839609"
+        },
+        {
+          "id": "8c227e85-e75f-4ae3-987d-cf50f25056be",
+          "author": "김승현",
+          "type": "text",
+          "content": "Anjwl",
+          "createdAt": "2026-07-01T04:59:36.765018"
+        },
+        {
+          "id": "29080f1f-ead3-4a0d-91c8-689df4be0d6a",
+          "author": "김승현",
+          "type": "text",
+          "content": "뭐지",
+          "createdAt": "2026-07-01T04:59:41.260331"
+        },
+        {
+          "id": "d0edd79e-f36b-4cd6-92b6-ffa68f60cd49",
+          "author": "김서진",
+          "type": "text",
+          "content": "아까 설나원이",
+          "createdAt": "2026-07-01T04:59:43.239931"
+        },
+        {
+          "id": "f110acc4-7e9a-4816-a797-e4d0d225efad",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T04:59:46.772869"
+        },
+        {
+          "id": "4389b5bb-d27a-4fb8-a8f6-f33e839b81e0",
+          "author": "김서진",
+          "type": "text",
+          "content": "무지무지 무시무시한",
+          "createdAt": "2026-07-01T04:59:53.994266"
+        },
+        {
+          "id": "d0bd29df-f000-40b5-b1cc-414e009ab37a",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T04:59:57.640414"
+        },
+        {
+          "id": "d24d96e0-a616-401a-8f05-42707e6c4171",
+          "author": "김서진",
+          "type": "text",
+          "content": "무진이 한테",
+          "createdAt": "2026-07-01T05:00:09.156225"
+        },
+        {
+          "id": "ce9ec3c6-c9ae-4885-9f20-042bbccb2852",
+          "author": "김승현",
+          "type": "text",
+          "content": "말해",
+          "createdAt": "2026-07-01T05:00:13.106434"
+        },
+        {
+          "id": "e29153c4-cb49-4b24-adf5-d7b83f4cda8d",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:00:24.970313"
+        },
+        {
+          "id": "d1bb52de-c62b-4b3d-9832-13c11394f102",
+          "author": "김서진",
+          "type": "text",
+          "content": "울면서 막 자기 손 한쪽 다쳤다고 자신이 방해 되냐면서",
+          "createdAt": "2026-07-01T05:00:43.207741"
+        },
+        {
+          "id": "dab9a8f1-335e-444c-a1de-d489aa2920df",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:00:50.839887"
+        },
+        {
+          "id": "171c9811-18d0-4b20-a205-0a1df70f94dd",
+          "author": "김서진",
+          "type": "text",
+          "content": "손 한 쪽으로라도 하겠다고 하던데",
+          "createdAt": "2026-07-01T05:00:58.564955"
+        },
+        {
+          "id": "cdb52a5b-e0c0-45d3-a86d-0951b04e8c9c",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:01:02.202708"
+        },
+        {
+          "id": "7ad64016-b32c-48f1-ae01-6eb78ade100d",
+          "author": "김승현",
+          "type": "text",
+          "content": "그래서",
+          "createdAt": "2026-07-01T05:01:31.199621"
+        },
+        {
+          "id": "68190a54-7356-4564-93ab-da7fcebf840a",
+          "author": "김서진",
+          "type": "text",
+          "content": "머가?",
+          "createdAt": "2026-07-01T05:01:36.411097"
+        },
+        {
+          "id": "5136c0a5-46e1-466c-bdcb-eac1aeacf94c",
+          "author": "김승현",
+          "type": "text",
+          "content": "겨론",
+          "createdAt": "2026-07-01T05:02:01.549420"
+        },
+        {
+          "id": "6d6a93ac-b67b-4b75-b3c5-0189519b8e38",
+          "author": "김승현",
+          "type": "text",
+          "content": "말해",
+          "createdAt": "2026-07-01T05:02:07.300265"
+        },
+        {
+          "id": "3aa22b1c-e9e0-460e-9240-3d9f8cede70c",
+          "author": "김승현",
+          "type": "text",
+          "content": "개답답하네",
+          "createdAt": "2026-07-01T05:02:30.360749"
+        },
+        {
+          "id": "6be776f7-c6d0-43db-8666-5d879082db0f",
+          "author": "김서진",
+          "type": "text",
+          "content": "그래서 좀 안타깝더라",
+          "createdAt": "2026-07-01T05:03:22.914847"
+        },
+        {
+          "id": "1e1e5199-e1a2-418f-b0af-cdf01b79baeb",
+          "author": "김승현",
+          "type": "text",
+          "content": "….",
+          "createdAt": "2026-07-01T05:03:26.865535"
+        },
+        {
+          "id": "ad8dac18-b8a5-4f8b-8a13-f94733da2c1e",
+          "author": "김서진",
+          "type": "text",
+          "content": "뭘 기대한거야 새꺄",
+          "createdAt": "2026-07-01T05:03:37.057903"
+        },
+        {
+          "id": "c5ea407d-1a65-4596-9cd5-a5860f417b5c",
+          "author": "김승현",
+          "type": "text",
+          "content": "뭐라고할 수없누…….",
+          "createdAt": "2026-07-01T05:03:41.691196"
+        },
+        {
+          "id": "06c0e6fb-a4d9-4cca-b883-5a6be7a3b098",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㄲ1ㅂ",
+          "createdAt": "2026-07-01T05:03:50.223886"
+        },
+        {
+          "id": "1b4b7740-7b21-4873-91d2-cbec8b7ee00b",
+          "author": "김승현",
+          "type": "text",
+          "content": "좀걱정됬음?",
+          "createdAt": "2026-07-01T05:04:09.474217"
+        },
+        {
+          "id": "54f3197d-31d6-4cee-99fa-aa86d1b88a48",
+          "author": "김서진",
+          "type": "text",
+          "content": "[좀] 이겠냐",
+          "createdAt": "2026-07-01T05:04:24.922714"
+        },
+        {
+          "id": "a0fcac98-2050-47f6-845d-a88a14504518",
+          "author": "김승현",
+          "type": "text",
+          "content": "아",
+          "createdAt": "2026-07-01T05:04:32.788275"
+        },
+        {
+          "id": "8a18b8d6-75b1-47c8-8281-285bb54230fe",
+          "author": "김승현",
+          "type": "text",
+          "content": "느그가 고백해야하는 애인데 걱정좀 핼",
+          "createdAt": "2026-07-01T05:04:47.223078"
+        },
+        {
+          "id": "8bbdb8cf-67eb-4afe-9a19-1a36e1f3a3c5",
+          "author": "김승현",
+          "type": "text",
+          "content": "명령이다 10새야",
+          "createdAt": "2026-07-01T05:04:56.120087"
+        },
+        {
+          "id": "e8145e93-78e5-4080-a79c-60d61c3f10fa",
+          "author": "김서진",
+          "type": "text",
+          "content": "뭔 개소리야",
+          "createdAt": "2026-07-01T05:05:00.314590"
+        },
+        {
+          "id": "fca9e713-5f41-4006-9692-db9dd178e014",
+          "author": "김승현",
+          "type": "text",
+          "content": "?",
+          "createdAt": "2026-07-01T05:05:13.950464"
+        },
+        {
+          "id": "223bceb3-bbc8-4314-8534-f5db56212d3a",
+          "author": "김서진",
+          "type": "text",
+          "content": "가슴이 찢어지는 느낌이 뭔지 알게됬다.\n우리 아빠가 내가 계속 잘못했을때 계속 이 말했는데 그땐 잘 몰랐거든 그걸",
+          "createdAt": "2026-07-01T05:05:58.600215"
+        },
+        {
+          "id": "fd0fbca1-9922-4ca6-8cb7-fcfe8c03ab34",
+          "author": "김승현",
+          "type": "text",
+          "content": "이제 느낌?",
+          "createdAt": "2026-07-01T05:06:19.850500"
+        },
+        {
+          "id": "7d670749-93d4-40ad-a88b-1ee26b0dcf10",
+          "author": "김서진",
+          "type": "text",
+          "content": "그 전에는 이럴 일이 딱이 없었으니까",
+          "createdAt": "2026-07-01T05:06:38.785686"
+        },
+        {
+          "id": "3fd1ba03-a4e8-4011-a926-2749ae16ade3",
+          "author": "김서진",
+          "type": "text",
+          "content": "그런 셈이지 뭐",
+          "createdAt": "2026-07-01T05:06:45.357479"
+        },
+        {
+          "id": "9987b9c0-f772-40c9-a8cb-c9196dfc8590",
+          "author": "김승현",
+          "type": "text",
+          "content": "…",
+          "createdAt": "2026-07-01T05:06:50.711627"
+        },
+        {
+          "id": "831ef673-0d55-4aac-86f2-0324a9fef246",
+          "author": "김승현",
+          "type": "text",
+          "content": "걱정좀해라",
+          "createdAt": "2026-07-01T05:07:03.848403"
+        },
+        {
+          "id": "abf24585-c4a7-4c08-81bc-57df1c48ff0b",
+          "author": "김서진",
+          "type": "text",
+          "content": "반려 지네 죽었을때, 그랬나?",
+          "createdAt": "2026-07-01T05:07:06.672008"
+        },
+        {
+          "id": "f4028220-a5db-4fd4-b3b0-9cd320f21c00",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅏ…………..",
+          "createdAt": "2026-07-01T05:07:17.691578"
+        },
+        {
+          "id": "715f5ee8-a6bd-4983-b186-7d825b79773a",
+          "author": "김서진",
+          "type": "text",
+          "content": "뭔 소리야 걱정 ㅈㄴ 하고 있다니까",
+          "createdAt": "2026-07-01T05:07:25.422551"
+        },
+        {
+          "id": "466ecc1f-56f4-46a4-9044-a9fa26119dbd",
+          "author": "김서진",
+          "type": "text",
+          "content": "뭘 알아듯는거야",
+          "createdAt": "2026-07-01T05:07:32.818160"
+        },
+        {
+          "id": "b4a0bf77-b6f2-41d6-8d1f-9ff9d5375a8c",
+          "author": "김서진",
+          "type": "text",
+          "content": "GPT2 냐?",
+          "createdAt": "2026-07-01T05:07:38.199759"
+        },
+        {
+          "id": "29dbf2da-fba4-48b8-86a5-bcee1a8c39cc",
+          "author": "김승현",
+          "type": "text",
+          "content": "내가 연락처드릴테니까",
+          "createdAt": "2026-07-01T05:07:40.593357"
+        },
+        {
+          "id": "c0c7077a-13c6-4712-9573-d7d4cfe92a05",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:07:52.784750"
+        },
+        {
+          "id": "fc1b1458-e299-4fc4-ba47-738b2606972d",
+          "author": "김승현",
+          "type": "text",
+          "content": "너가 연락해봐",
+          "createdAt": "2026-07-01T05:07:57.816445"
+        },
+        {
+          "id": "2ec19574-aaf6-4313-8791-ab047f768385",
+          "author": "김서진",
+          "type": "text",
+          "content": "…",
+          "createdAt": "2026-07-01T05:08:10.631841"
+        },
+        {
+          "id": "ea96e724-a78a-4e8d-99be-07a36fa8c571",
+          "author": "김승현",
+          "type": "text",
+          "content": "내가 낄순 없자나",
+          "createdAt": "2026-07-01T05:08:38.677348"
+        },
+        {
+          "id": "82947855-9fc7-446c-a1b2-0823fddac564",
+          "author": "김서진",
+          "type": "text",
+          "content": "그래도 될까",
+          "createdAt": "2026-07-01T05:08:38.728391"
+        },
+        {
+          "id": "0f128a34-5d6b-4b98-b8d5-94d20f388401",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:08:58.969341"
+        },
+        {
+          "id": "706b5d96-802c-494f-84bf-862b472c55de",
+          "author": "김서진",
+          "type": "text",
+          "content": "일단은 알겠음",
+          "createdAt": "2026-07-01T05:09:20.518280"
+        },
+        {
+          "id": "fa54dc68-7e66-461f-9279-3a1c7f1e3272",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:09:24.610508"
+        },
+        {
+          "id": "956a6adf-cea4-4d8f-bb99-9696d4116934",
+          "author": "김승현",
+          "type": "text",
+          "content": "아직도 좋아함?",
+          "createdAt": "2026-07-01T05:09:32.234894"
+        },
+        {
+          "id": "df48f8c1-ceac-4c09-9b09-27eebf5d2497",
+          "author": "김서진",
+          "type": "text",
+          "content": "당연한 말 아니냐",
+          "createdAt": "2026-07-01T05:09:49.827872"
+        },
+        {
+          "id": "4605e1f3-1b33-48ec-a823-f444c1247df8",
+          "author": "김승현",
+          "type": "text",
+          "content": "맞긴해",
+          "createdAt": "2026-07-01T05:10:00.798708"
+        },
+        {
+          "id": "28888816-4a8f-4f8b-b8fc-136e9a55ad11",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅋㅋㅋ",
+          "createdAt": "2026-07-01T05:10:17.956429"
+        },
+        {
+          "id": "b8ce1f19-c0b2-48e4-b0ff-0a38b6463537",
+          "author": "김승현",
+          "type": "text",
+          "content": "그럼 제가",
+          "createdAt": "2026-07-01T05:10:26.828733"
+        },
+        {
+          "id": "914bb4ac-5457-4b34-8aab-bc58b7814f7e",
+          "author": "김승현",
+          "type": "text",
+          "content": "느그랑",
+          "createdAt": "2026-07-01T05:10:29.594971"
+        },
+        {
+          "id": "60734910-438c-4edd-9546-5c24a2c9c891",
+          "author": "김승현",
+          "type": "text",
+          "content": "버섯이랑",
+          "createdAt": "2026-07-01T05:10:35.361523"
+        },
+        {
+          "id": "3149825b-36cd-47f7-bc22-bfdefecb2bec",
+          "author": "김승현",
+          "type": "text",
+          "content": "3인채팅만들고‘",
+          "createdAt": "2026-07-01T05:10:42.259472"
+        },
+        {
+          "id": "c28dd385-c826-40d2-8ce4-ac08e6c22585",
+          "author": "김승현",
+          "type": "text",
+          "content": "내가 나가줄게",
+          "createdAt": "2026-07-01T05:10:47.438526"
+        },
+        {
+          "id": "20f2536d-c0a2-4405-a07c-8b6fe0666c4d",
+          "author": "김서진",
+          "type": "text",
+          "content": "솔직히 그런 점이 좋긴해, 손이 다쳐도 계속 하고 싶다고 하는 그 설나원의 마인드가",
+          "createdAt": "2026-07-01T05:11:02.974302"
+        },
+        {
+          "id": "805e5193-78dc-475a-a3ee-e21a38440e7d",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅃㄴ",
+          "createdAt": "2026-07-01T05:14:36.717296"
+        },
+        {
+          "id": "068e9a03-3a56-4821-b9f4-b3456c07dc67",
+          "author": "김승현",
+          "type": "text",
+          "content": "내가 좋아하는거아님",
+          "createdAt": "2026-07-01T05:14:42.398422"
+        },
+        {
+          "id": "2d535bde-6944-4820-b641-5b6902931f02",
+          "author": "김승현",
+          "type": "text",
+          "content": "난 느그들을 이어주는데 도움을 주는거지",
+          "createdAt": "2026-07-01T05:14:54.787951"
+        },
+        {
+          "id": "160e5a6f-84c1-4439-853a-66d505690de6",
+          "author": "김서진",
+          "type": "text",
+          "content": "니 말고 나 임마",
+          "createdAt": "2026-07-01T05:15:36.550590"
+        },
+        {
+          "id": "cc4d08f5-18e1-4214-b101-05afe59f7d09",
+          "author": "김서진",
+          "type": "text",
+          "content": "누가 너래",
+          "createdAt": "2026-07-01T05:15:42.863643"
+        },
+        {
+          "id": "3d31c7bd-9be7-4e93-85a1-4c1592bacdf0",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅉㅋㅋ",
+          "createdAt": "2026-07-01T05:15:44.544490"
+        },
+        {
+          "id": "f7e9d6f6-5419-467b-9059-f0001f6a9b90",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅈㅈㅅㅈㅅㅈㅅㅅㅈ",
+          "createdAt": "2026-07-01T05:15:48.799163"
+        },
+        {
+          "id": "e1595761-483d-4f19-91c8-909a0a6f4ba2",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅋㅋㅋ",
+          "createdAt": "2026-07-01T05:15:50.748659"
+        },
+        {
+          "id": "e8027f45-143a-4ea9-a773-22992a8f78c4",
+          "author": "김서진",
+          "type": "text",
+          "content": "광고나 만들자",
+          "createdAt": "2026-07-01T05:16:04.383565"
+        },
+        {
+          "id": "8128c475-de28-44e6-8d3f-a7707415315e",
+          "author": "김승현",
+          "type": "text",
+          "content": "난 느그들을 이어줄게오늘",
+          "createdAt": "2026-07-01T05:17:53.140854"
+        },
+        {
+          "id": "58237568-0c9f-4184-be7d-b096f06052b2",
+          "author": "김승현",
+          "type": "text",
+          "content": "Today",
+          "createdAt": "2026-07-01T05:18:01.608325"
+        },
+        {
+          "id": "bcbb5ad9-1832-4605-bbb2-1eb3bb471542",
+          "author": "김서진",
+          "type": "text",
+          "content": "오늘?",
+          "createdAt": "2026-07-01T05:18:04.869373"
+        },
+        {
+          "id": "4233f893-aea2-4e93-a2c1-b3b791128bee",
+          "author": "김서진",
+          "type": "text",
+          "content": "나 오늘 바빠 인마",
+          "createdAt": "2026-07-01T05:18:21.936777"
+        },
+        {
+          "id": "e5cc3484-6874-4d0a-bff4-485ae8150b32",
+          "author": "김서진",
+          "type": "text",
+          "content": "학원 숙제도 다 못했는데",
+          "createdAt": "2026-07-01T05:18:33.106258"
+        },
+        {
+          "id": "082ee5ec-9d09-42d6-9da1-0429308cdeba",
+          "author": "김승현",
+          "type": "text",
+          "content": "할 쑤 있지",
+          "createdAt": "2026-07-01T05:21:11.226056"
+        },
+        {
+          "id": "acdddeb3-af60-467a-b8a9-5cc07578f22f",
+          "author": "김승현",
+          "type": "text",
+          "content": "나도 가서 겜해야됨",
+          "createdAt": "2026-07-01T05:21:23.791382"
+        },
+        {
+          "id": "0f48f5a2-0f9c-4656-a493-5210ba2ba4d2",
+          "author": "김승현",
+          "type": "text",
+          "content": "정확히4시에 만들거임",
+          "createdAt": "2026-07-01T05:21:32.356126"
+        },
+        {
+          "id": "58f2357f-3776-4046-a8bd-e7461ead24ab",
+          "author": "김서진",
+          "type": "text",
+          "content": "야 , 나 어? 에휴 야, 이놈아 학교 끝나고 좀만 있으면 바로 4신데",
+          "createdAt": "2026-07-01T05:22:36.227210"
+        },
+        {
+          "id": "44bc2b1f-158f-4762-9d63-7e6f79e7aa2d",
+          "author": "김승현",
+          "type": "text",
+          "content": "201ㅜㄴ이따가임",
+          "createdAt": "2026-07-01T05:23:01.703753"
+        },
+        {
+          "id": "a8c415e7-10d7-426d-8a71-fd2962ca5d38",
+          "author": "김승현",
+          "type": "text",
+          "content": "분",
+          "createdAt": "2026-07-01T05:23:04.830785"
+        },
+        {
+          "id": "b6468ed0-9ef9-45c0-af8a-ccb57c4ef2c5",
+          "author": "김승현",
+          "type": "text",
+          "content": "충부하자나",
+          "createdAt": "2026-07-01T05:23:16.611236"
+        },
+        {
+          "id": "5961dfe3-62ed-44ed-96cb-7e7e99600a93",
+          "author": "김서진",
+          "type": "text",
+          "content": "201분 이따가임 이 뭔",
+          "createdAt": "2026-07-01T05:23:19.450543"
+        },
+        {
+          "id": "a41b4acb-a35c-4399-8252-4e2dbdd2341e",
+          "author": "김승현",
+          "type": "text",
+          "content": "20분",
+          "createdAt": "2026-07-01T05:23:52.796516"
+        },
+        {
+          "id": "7cbdbb88-772d-4d2b-abbb-7f25370ac4f9",
+          "author": "김서진",
+          "type": "text",
+          "content": "뭐가",
+          "createdAt": "2026-07-01T05:24:10.620906"
+        },
+        {
+          "id": "d92f5e79-5b61-42c1-babc-36b81a0e8df8",
+          "author": "김승현",
+          "type": "text",
+          "content": "그거",
+          "createdAt": "2026-07-01T05:27:51.635720"
+        },
+        {
+          "id": "3b6bc393-180d-4323-adc0-741f1f4da67c",
+          "author": "김승현",
+          "type": "text",
+          "content": "채팅창",
+          "createdAt": "2026-07-01T05:27:59.180960"
+        }
+      ],
+      "created_by": "김서진"
+    }
+  }
 }
