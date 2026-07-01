@@ -91,6 +91,12 @@
           "name": "공개채팅방",
           "type": "public",
           "code": null
+        },
+        {
+          "id": "5d68c86b-c563-4933-b595-8c1929dad003",
+          "name": "수주제",
+          "type": "private",
+          "code": "C777A5"
         }
       ]
     },
