@@ -126,7 +126,7 @@
     "김태환": {
       "id": "김태환",
       "password": "1234",
-      "role": "basic",
+      "role": "pro",
       "isAdmin": false,
       "isBanned": false,
       "joined_rooms": [
