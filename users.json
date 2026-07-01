@@ -128,7 +128,7 @@
       "password": "1234",
       "role": "basic",
       "isAdmin": false,
-      "isBanned": true,
+      "isBanned": false,
       "joined_rooms": [
         {
           "id": "d9ff2a0c-8ba5-4d21-85c1-80dd84e4c7f3",
