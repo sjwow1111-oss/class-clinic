@@ -7,132 +7,6 @@
       "code": "C777A5",
       "messages": [
         {
-          "id": "86ebbb88-9787-486f-99aa-a87bba0c6ee5",
-          "author": "김서진",
-          "type": "text",
-          "content": "응애",
-          "createdAt": "2026-07-01T04:58:09.297762"
-        },
-        {
-          "id": "e8b7ec2d-eb5d-49e9-a8f7-1352a69a5ba7",
-          "author": "김승현",
-          "type": "text",
-          "content": "?",
-          "createdAt": "2026-07-01T04:59:03.839609"
-        },
-        {
-          "id": "8c227e85-e75f-4ae3-987d-cf50f25056be",
-          "author": "김승현",
-          "type": "text",
-          "content": "Anjwl",
-          "createdAt": "2026-07-01T04:59:36.765018"
-        },
-        {
-          "id": "29080f1f-ead3-4a0d-91c8-689df4be0d6a",
-          "author": "김승현",
-          "type": "text",
-          "content": "뭐지",
-          "createdAt": "2026-07-01T04:59:41.260331"
-        },
-        {
-          "id": "d0edd79e-f36b-4cd6-92b6-ffa68f60cd49",
-          "author": "김서진",
-          "type": "text",
-          "content": "아까 설나원이",
-          "createdAt": "2026-07-01T04:59:43.239931"
-        },
-        {
-          "id": "f110acc4-7e9a-4816-a797-e4d0d225efad",
-          "author": "김승현",
-          "type": "text",
-          "content": "ㅇㅇ",
-          "createdAt": "2026-07-01T04:59:46.772869"
-        },
-        {
-          "id": "4389b5bb-d27a-4fb8-a8f6-f33e839b81e0",
-          "author": "김서진",
-          "type": "text",
-          "content": "무지무지 무시무시한",
-          "createdAt": "2026-07-01T04:59:53.994266"
-        },
-        {
-          "id": "d0bd29df-f000-40b5-b1cc-414e009ab37a",
-          "author": "김승현",
-          "type": "text",
-          "content": "ㅇㅇ",
-          "createdAt": "2026-07-01T04:59:57.640414"
-        },
-        {
-          "id": "d24d96e0-a616-401a-8f05-42707e6c4171",
-          "author": "김서진",
-          "type": "text",
-          "content": "무진이 한테",
-          "createdAt": "2026-07-01T05:00:09.156225"
-        },
-        {
-          "id": "ce9ec3c6-c9ae-4885-9f20-042bbccb2852",
-          "author": "김승현",
-          "type": "text",
-          "content": "말해",
-          "createdAt": "2026-07-01T05:00:13.106434"
-        },
-        {
-          "id": "e29153c4-cb49-4b24-adf5-d7b83f4cda8d",
-          "author": "김승현",
-          "type": "text",
-          "content": "ㅇㅇ",
-          "createdAt": "2026-07-01T05:00:24.970313"
-        },
-        {
-          "id": "d1bb52de-c62b-4b3d-9832-13c11394f102",
-          "author": "김서진",
-          "type": "text",
-          "content": "울면서 막 자기 손 한쪽 다쳤다고 자신이 방해 되냐면서",
-          "createdAt": "2026-07-01T05:00:43.207741"
-        },
-        {
-          "id": "dab9a8f1-335e-444c-a1de-d489aa2920df",
-          "author": "김승현",
-          "type": "text",
-          "content": "ㅇㅇ",
-          "createdAt": "2026-07-01T05:00:50.839887"
-        },
-        {
-          "id": "171c9811-18d0-4b20-a205-0a1df70f94dd",
-          "author": "김서진",
-          "type": "text",
-          "content": "손 한 쪽으로라도 하겠다고 하던데",
-          "createdAt": "2026-07-01T05:00:58.564955"
-        },
-        {
-          "id": "cdb52a5b-e0c0-45d3-a86d-0951b04e8c9c",
-          "author": "김승현",
-          "type": "text",
-          "content": "ㅇㅇ",
-          "createdAt": "2026-07-01T05:01:02.202708"
-        },
-        {
-          "id": "7ad64016-b32c-48f1-ae01-6eb78ade100d",
-          "author": "김승현",
-          "type": "text",
-          "content": "그래서",
-          "createdAt": "2026-07-01T05:01:31.199621"
-        },
-        {
-          "id": "68190a54-7356-4564-93ab-da7fcebf840a",
-          "author": "김서진",
-          "type": "text",
-          "content": "머가?",
-          "createdAt": "2026-07-01T05:01:36.411097"
-        },
-        {
-          "id": "5136c0a5-46e1-466c-bdcb-eac1aeacf94c",
-          "author": "김승현",
-          "type": "text",
-          "content": "겨론",
-          "createdAt": "2026-07-01T05:02:01.549420"
-        },
-        {
           "id": "6d6a93ac-b67b-4b75-b3c5-0189519b8e38",
           "author": "김승현",
           "type": "text",
@@ -621,6 +495,216 @@
           "type": "text",
           "content": "채팅창",
           "createdAt": "2026-07-01T05:27:59.180960"
+        },
+        {
+          "id": "dd966efa-b6b3-4e46-a781-2a4acf7ed429",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅋㅋㅋ",
+          "createdAt": "2026-07-01T05:32:59.140465"
+        },
+        {
+          "id": "bd94acc4-0221-4fdf-9544-c2a928c168ec",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅑㅑ",
+          "createdAt": "2026-07-01T05:56:12.172154"
+        },
+        {
+          "id": "47efd31b-b132-4d87-a71f-f18fe5d8ee11",
+          "author": "김서진",
+          "type": "text",
+          "content": "왜",
+          "createdAt": "2026-07-01T05:56:37.495851"
+        },
+        {
+          "id": "131d35a1-a9a9-415f-8c10-2e86bf9c061c",
+          "author": "김승현",
+          "type": "text",
+          "content": "오늘하자 ㄱㄱ",
+          "createdAt": "2026-07-01T05:56:45.479783"
+        },
+        {
+          "id": "c72cca37-48f2-46d5-819b-abb476617c21",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:56:53.350740"
+        },
+        {
+          "id": "6f22bee3-7901-494e-8770-e7709b65a649",
+          "author": "김승현",
+          "type": "text",
+          "content": "남자답게",
+          "createdAt": "2026-07-01T05:56:58.330440"
+        },
+        {
+          "id": "cf24264a-3d53-41fe-9b2e-925f3bde4385",
+          "author": "김서진",
+          "type": "text",
+          "content": "?",
+          "createdAt": "2026-07-01T05:57:02.588492"
+        },
+        {
+          "id": "5488f90b-4eef-4403-a790-b1d53c16175a",
+          "author": "김서진",
+          "type": "text",
+          "content": "아니",
+          "createdAt": "2026-07-01T05:57:07.533025"
+        },
+        {
+          "id": "9562d9bf-9fd1-43a7-8d22-1ded0fc5168a",
+          "author": "김서진",
+          "type": "text",
+          "content": "잠만",
+          "createdAt": "2026-07-01T05:57:11.159524"
+        },
+        {
+          "id": "c4bdcd20-049b-4266-92c5-a7e3046f064b",
+          "author": "김승현",
+          "type": "text",
+          "content": "길고 굵고 웅장하게 까",
+          "createdAt": "2026-07-01T05:57:12.174801"
+        },
+        {
+          "id": "5361ed2a-d79c-4ebf-aa77-ea874f05e003",
+          "author": "김서진",
+          "type": "text",
+          "content": "아 예?",
+          "createdAt": "2026-07-01T05:57:18.516363"
+        },
+        {
+          "id": "08dac6e7-e715-4f92-9ab6-1c2178ddb86e",
+          "author": "김승현",
+          "type": "text",
+          "content": "머",
+          "createdAt": "2026-07-01T05:57:22.242960"
+        },
+        {
+          "id": "5e55f8d6-4766-42e2-9c4f-bb4a0a15f749",
+          "author": "김승현",
+          "type": "text",
+          "content": "시키야",
+          "createdAt": "2026-07-01T05:57:24.521573"
+        },
+        {
+          "id": "ac10789a-a799-41a3-923c-20e81d59cde6",
+          "author": "김서진",
+          "type": "text",
+          "content": "그 러 니 까",
+          "createdAt": "2026-07-01T05:57:30.308586"
+        },
+        {
+          "id": "ed6b84a6-b4cf-4b4e-a6be-4e85e814bcf5",
+          "author": "김승현",
+          "type": "text",
+          "content": "그겐만3주 지났엉",
+          "createdAt": "2026-07-01T05:57:32.636414"
+        },
+        {
+          "id": "a611b973-6768-4650-9b6e-977fb61d6038",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:57:37.299908"
+        },
+        {
+          "id": "a1052e45-8529-4aba-8939-3523b5c97b33",
+          "author": "김서진",
+          "type": "text",
+          "content": "그 채팅 방에서",
+          "createdAt": "2026-07-01T05:57:42.271604"
+        },
+        {
+          "id": "5e68df55-3410-4669-9fab-d711c0c0df97",
+          "author": "김서진",
+          "type": "text",
+          "content": "오늘 바로 하라는거임?",
+          "createdAt": "2026-07-01T05:57:50.292679"
+        },
+        {
+          "id": "9e40bd79-6966-48ff-bac1-f8d1a1f44765",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅇㅇ…",
+          "createdAt": "2026-07-01T05:57:59.583897"
+        },
+        {
+          "id": "bd6d97b3-4d6b-444c-a107-53ad8d911410",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅇㅎㅇㄹㅈ",
+          "createdAt": "2026-07-01T05:58:04.464530"
+        },
+        {
+          "id": "47045628-9bb2-4499-be5e-b3d7092881e1",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:58:10.582379"
+        },
+        {
+          "id": "afad0ade-489c-468e-9a03-b692313c9651",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅈㅂ",
+          "createdAt": "2026-07-01T05:58:12.927356"
+        },
+        {
+          "id": "cb472138-2035-4a4b-bf7b-7eb6ddd31344",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅇㅇ",
+          "createdAt": "2026-07-01T05:58:15.621517"
+        },
+        {
+          "id": "9716040c-b442-4d3f-8330-27a1b05c07f6",
+          "author": "김서진",
+          "type": "text",
+          "content": "ㅁㅊㄴ아",
+          "createdAt": "2026-07-01T05:58:20.717211"
+        },
+        {
+          "id": "3a7dfce1-8f95-46b6-b423-64fa936e42e0",
+          "author": "김서진",
+          "type": "text",
+          "content": "이제 채팅창 닫아",
+          "createdAt": "2026-07-01T05:58:30.696122"
+        },
+        {
+          "id": "6dd84950-9bd7-4ee4-bcd7-d1da715a2013",
+          "author": "김승현",
+          "type": "text",
+          "content": "뭐 ㅅㄲ야",
+          "createdAt": "2026-07-01T05:58:33.084786"
+        },
+        {
+          "id": "ad850157-23d5-4459-b4a5-58af0e8a2370",
+          "author": "김서진",
+          "type": "text",
+          "content": "좀",
+          "createdAt": "2026-07-01T05:58:34.323308"
+        },
+        {
+          "id": "529cc179-c2ba-4635-a5bd-3fae9924c4db",
+          "author": "김승현",
+          "type": "text",
+          "content": "서러ㅓㅓ",
+          "createdAt": "2026-07-01T05:58:38.199173"
+        },
+        {
+          "id": "87d56806-f0d0-42bc-b915-be1f0394c290",
+          "author": "김서진",
+          "type": "text",
+          "content": "닫아라",
+          "createdAt": "2026-07-01T05:58:38.236830"
+        },
+        {
+          "id": "7e70e1f1-0654-4940-b949-cc505c989abb",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅋ",
+          "createdAt": "2026-07-01T05:58:56.340086"
         }
       ],
       "created_by": "김서진"
