@@ -64,6 +64,12 @@
           "name": "수주제에서 들어오는",
           "type": "public",
           "code": null
+        },
+        {
+          "id": "5d68c86b-c563-4933-b595-8c1929dad003",
+          "name": "수주제",
+          "type": "private",
+          "code": "C777A5"
         }
       ]
     },
@@ -125,7 +131,7 @@
     },
     "김태환": {
       "id": "김태환",
-      "password": "1972",
+      "password": "1234",
       "role": "pro",
       "isAdmin": false,
       "isBanned": false,
