@@ -11,7 +11,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "c0e99a18-cdec-4d78-b296-915d86ee348c",
+        "author": "김태환",
+        "content": "예준아 맞짱 깔래?",
+        "createdAt": "2026-07-07T00:32:42.863994"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-04T11:09:53.141144"
   },
