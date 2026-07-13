@@ -23,7 +23,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "eb9af600-2331-4be3-8d92-beaddd56427e",
+        "author": "김태환",
+        "content": "니가 소냐",
+        "createdAt": "2026-07-13T14:41:56.728237"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-13T01:54:25.422655"
   },
