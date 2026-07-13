@@ -42,7 +42,14 @@
     },
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "550c109e-0b2c-454a-98b7-8cdef8b8048e",
+        "author": "최승민",
+        "content": "예온이 거세 ㄱㄱㄱㄱ",
+        "createdAt": "2026-07-13T01:54:51.418167"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-13T01:53:40.853216"
   },
