@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "4828755a-94a4-4939-9f84-bcf6dc3afb45",
+        "author": "김태환",
+        "content": "어 뭐야 왜 태환이 계정이냐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 나 예준인데",
+        "createdAt": "2026-07-13T14:44:49.900836"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-13T14:44:20.003932"
   },
