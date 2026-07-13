@@ -1,5 +1,46 @@
 [
   {
+    "id": "d684ad77-fe53-46ae-9980-c5e2999566c2",
+    "author": "최승민",
+    "title": "ㅗㅗㅗㅗ",
+    "content": "선택한게 예온이가 됩니다",
+    "board": "qna",
+    "images": [],
+    "poll": {
+      "options": [
+        {
+          "id": "857ae081-2ff0-4316-b740-0383b2071320",
+          "text": "여장남자",
+          "votes": []
+        },
+        {
+          "id": "48ff69d1-ba82-480d-995a-4fc9f38efde8",
+          "text": "남장여자",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-07-13T01:53:40.853216"
+  },
+  {
+    "id": "c9617674-a711-487e-a4bb-f5521f8a35ce",
+    "author": "김태환",
+    "title": "서진아",
+    "content": "야 맞짱함 뜨자",
+    "board": "qna",
+    "images": [],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-07-13T01:53:39.489297"
+  },
+  {
     "id": "1ee3c59c-a7ee-45c6-bd1c-4683018d8799",
     "author": "이예온",
     "title": "이 사이트가 잊혀진 것에 대하여",
