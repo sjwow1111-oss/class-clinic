@@ -151,8 +151,10 @@
       "uploads/faa193d5-f9d9-45af-8acc-97aa2e69c063.jpg"
     ],
     "poll": null,
-    "likes": 0,
-    "liked_by": [],
+    "likes": 1,
+    "liked_by": [
+      "김태환"
+    ],
     "comments": [
       {
         "id": "ae0cba22-aabe-42ed-b50a-4920b7267ef9",
