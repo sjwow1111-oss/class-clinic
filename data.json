@@ -1,5 +1,19 @@
 [
   {
+    "id": "4856476c-13fc-4580-8751-bf199b20bdf2",
+    "author": "김태환",
+    "title": "예준아",
+    "content": "넌 좀 맞자",
+    "board": "free",
+    "images": [],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-07-13T01:54:25.422655"
+  },
+  {
     "id": "d684ad77-fe53-46ae-9980-c5e2999566c2",
     "author": "최승민",
     "title": "ㅗㅗㅗㅗ",
@@ -15,14 +29,15 @@
             "김태환",
             "김서진",
             "정일후",
-            "최승민",
             "김희래"
           ]
         },
         {
           "id": "48ff69d1-ba82-480d-995a-4fc9f38efde8",
           "text": "남장여자",
-          "votes": []
+          "votes": [
+            "최승민"
+          ]
         }
       ]
     },
