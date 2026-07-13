@@ -5,7 +5,7 @@
       "password": "1234",
       "role": "early access",
       "isAdmin": false,
-      "isBanned": false,
+      "isBanned": true,
       "joined_rooms": [
         {
           "id": "5821d995-9c42-45df-9928-d08eb53417e4",
