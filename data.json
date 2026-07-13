@@ -1,26 +1,5 @@
 [
   {
-    "id": "4856476c-13fc-4580-8751-bf199b20bdf2",
-    "author": "김태환",
-    "title": "예준아",
-    "content": "넌 좀 맞자",
-    "board": "free",
-    "images": [],
-    "poll": null,
-    "likes": 0,
-    "liked_by": [],
-    "comments": [
-      {
-        "id": "eb9af600-2331-4be3-8d92-beaddd56427e",
-        "author": "김태환",
-        "content": "니가 소냐",
-        "createdAt": "2026-07-13T14:41:56.728237"
-      }
-    ],
-    "views": 0,
-    "createdAt": "2026-07-13T01:54:25.422655"
-  },
-  {
     "id": "d684ad77-fe53-46ae-9980-c5e2999566c2",
     "author": "최승민",
     "title": "ㅗㅗㅗㅗ",
