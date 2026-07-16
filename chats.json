@@ -7,55 +7,6 @@
       "code": "C777A5",
       "messages": [
         {
-          "id": "6d6a93ac-b67b-4b75-b3c5-0189519b8e38",
-          "author": "김승현",
-          "type": "text",
-          "content": "말해",
-          "createdAt": "2026-07-01T05:02:07.300265"
-        },
-        {
-          "id": "3aa22b1c-e9e0-460e-9240-3d9f8cede70c",
-          "author": "김승현",
-          "type": "text",
-          "content": "개답답하네",
-          "createdAt": "2026-07-01T05:02:30.360749"
-        },
-        {
-          "id": "6be776f7-c6d0-43db-8666-5d879082db0f",
-          "author": "김서진",
-          "type": "text",
-          "content": "그래서 좀 안타깝더라",
-          "createdAt": "2026-07-01T05:03:22.914847"
-        },
-        {
-          "id": "1e1e5199-e1a2-418f-b0af-cdf01b79baeb",
-          "author": "김승현",
-          "type": "text",
-          "content": "….",
-          "createdAt": "2026-07-01T05:03:26.865535"
-        },
-        {
-          "id": "ad8dac18-b8a5-4f8b-8a13-f94733da2c1e",
-          "author": "김서진",
-          "type": "text",
-          "content": "뭘 기대한거야 새꺄",
-          "createdAt": "2026-07-01T05:03:37.057903"
-        },
-        {
-          "id": "c5ea407d-1a65-4596-9cd5-a5860f417b5c",
-          "author": "김승현",
-          "type": "text",
-          "content": "뭐라고할 수없누…….",
-          "createdAt": "2026-07-01T05:03:41.691196"
-        },
-        {
-          "id": "06c0e6fb-a4d9-4cca-b883-5a6be7a3b098",
-          "author": "김승현",
-          "type": "text",
-          "content": "ㄲ1ㅂ",
-          "createdAt": "2026-07-01T05:03:50.223886"
-        },
-        {
           "id": "1b4b7740-7b21-4873-91d2-cbec8b7ee00b",
           "author": "김승현",
           "type": "text",
@@ -705,6 +656,55 @@
           "type": "text",
           "content": "ㅋ",
           "createdAt": "2026-07-01T05:58:56.340086"
+        },
+        {
+          "id": "0cbd24ce-8334-4f8d-abbf-ec8d1d0af71f",
+          "author": "김승현",
+          "type": "text",
+          "content": "형",
+          "createdAt": "2026-07-16T01:21:36.865347"
+        },
+        {
+          "id": "803e680a-3c68-477d-95ee-ff2be83b266c",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅏㅏㅏㅏ",
+          "createdAt": "2026-07-16T01:22:04.517117"
+        },
+        {
+          "id": "df678288-7edf-4d1f-9826-f8ad609743ec",
+          "author": "김승현",
+          "type": "text",
+          "content": "내가 ㅜㄹ어봤는데ㅔㅔ",
+          "createdAt": "2026-07-16T01:22:10.580465"
+        },
+        {
+          "id": "c215407e-1981-43c4-8b9a-4f45d7940127",
+          "author": "김승현",
+          "type": "text",
+          "content": "걔는 먹는거조아한대",
+          "createdAt": "2026-07-16T01:22:23.498103"
+        },
+        {
+          "id": "3bf3345f-7564-451e-96c7-9d8056df4c58",
+          "author": "김승현",
+          "type": "text",
+          "content": "ㅜ진이가",
+          "createdAt": "2026-07-16T01:24:28.039023"
+        },
+        {
+          "id": "d068b8a8-5a3f-487d-8649-c3c124faa28d",
+          "author": "김승현",
+          "type": "text",
+          "content": "컈머근거에 환장한데ㅔㅔ",
+          "createdAt": "2026-07-16T01:24:40.735002"
+        },
+        {
+          "id": "bac40b7d-4816-404f-a07e-aea3e45accf5",
+          "author": "김승현",
+          "type": "text",
+          "content": "..?",
+          "createdAt": "2026-07-16T01:27:02.800222"
         }
       ],
       "created_by": "김서진"
