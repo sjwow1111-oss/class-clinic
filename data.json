@@ -11,7 +11,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "a478aa18-fd65-4d15-9cbc-8700ef2dce6a",
+        "author": "김서진",
+        "content": "최적화 잘 해놨으니까 모바일도 플레이 가능할듯",
+        "createdAt": "2026-07-22T06:02:19.249636"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-22T05:59:05.850148"
   },
