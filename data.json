@@ -78,14 +78,7 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [
-      {
-        "id": "444765e1-e233-471a-ad70-4f40c4474a24",
-        "author": "김태환",
-        "content": "ㅋㅋㅋㅋㅋㅋㅋ",
-        "createdAt": "2026-07-19T13:50:51.688324"
-      }
-    ],
+    "comments": [],
     "views": 0,
     "createdAt": "2026-07-16T11:50:26.947513"
   },
