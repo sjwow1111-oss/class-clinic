@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "8872d364-eca5-4077-9a7e-18bf19572ebc",
+        "author": "김예준",
+        "content": "? ㅏ 저거 쓴거 너였구나 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "createdAt": "2026-07-26T12:39:04.402746"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-26T12:38:26.479694"
   },
