@@ -1,5 +1,21 @@
 [
   {
+    "id": "b1ac9ac3-89f7-4e26-b07c-bee9663324ec",
+    "author": "김예준",
+    "title": "얘들아 나 할말있어",
+    "content": "뻐큐",
+    "board": "free",
+    "images": [
+      "uploads/b1ac9ac3-89f7-4e26-b07c-bee9663324ec.jpeg"
+    ],
+    "poll": null,
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-07-26T08:51:19.079402"
+  },
+  {
     "id": "6e37ac69-edf2-4ae6-a842-386548207cca",
     "author": "김서진",
     "title": "Coming SOON",
