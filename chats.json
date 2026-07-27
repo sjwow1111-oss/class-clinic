@@ -7,34 +7,6 @@
       "code": "C777A5",
       "messages": [
         {
-          "id": "1b4b7740-7b21-4873-91d2-cbec8b7ee00b",
-          "author": "김승현",
-          "type": "text",
-          "content": "좀걱정됬음?",
-          "createdAt": "2026-07-01T05:04:09.474217"
-        },
-        {
-          "id": "54f3197d-31d6-4cee-99fa-aa86d1b88a48",
-          "author": "김서진",
-          "type": "text",
-          "content": "[좀] 이겠냐",
-          "createdAt": "2026-07-01T05:04:24.922714"
-        },
-        {
-          "id": "a0fcac98-2050-47f6-845d-a88a14504518",
-          "author": "김승현",
-          "type": "text",
-          "content": "아",
-          "createdAt": "2026-07-01T05:04:32.788275"
-        },
-        {
-          "id": "8a18b8d6-75b1-47c8-8281-285bb54230fe",
-          "author": "김승현",
-          "type": "text",
-          "content": "느그가 고백해야하는 애인데 걱정좀 핼",
-          "createdAt": "2026-07-01T05:04:47.223078"
-        },
-        {
           "id": "8bbdb8cf-67eb-4afe-9a19-1a36e1f3a3c5",
           "author": "김승현",
           "type": "text",
@@ -705,6 +677,34 @@
           "type": "text",
           "content": "..?",
           "createdAt": "2026-07-16T01:27:02.800222"
+        },
+        {
+          "id": "fecd490e-4e13-4853-ad6d-3d84e97dc508",
+          "author": "김서진",
+          "type": "text",
+          "content": "뭐래 는거야 이 ㅅㄲ는",
+          "createdAt": "2026-07-27T00:47:27.754113"
+        },
+        {
+          "id": "e20bcb26-c744-4737-a413-12323c6a2fc4",
+          "author": "김서진",
+          "type": "text",
+          "content": "컈머근거 라는 음식이 있었어",
+          "createdAt": "2026-07-27T00:47:46.995803"
+        },
+        {
+          "id": "d5d42687-c742-4069-8ece-529d802e424a",
+          "author": "김서진",
+          "type": "text",
+          "content": "뭐 너 몰폰하면서 타자쳤나",
+          "createdAt": "2026-07-27T00:49:47.181455"
+        },
+        {
+          "id": "20834c10-ea4f-4946-b87e-e5f2cadf1584",
+          "author": "김서진",
+          "type": "text",
+          "content": "글자 꼬라지가 와이러노",
+          "createdAt": "2026-07-27T00:49:59.421633"
         }
       ],
       "created_by": "김서진"
