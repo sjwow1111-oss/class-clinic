@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "f8ec6694-66a3-42ba-9efa-9ac2ef9824c4",
+        "author": "김서진",
+        "content": "난 오타쿠라고~~",
+        "createdAt": "2026-07-27T00:48:37.095596"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-27T00:46:56.714849"
   },
