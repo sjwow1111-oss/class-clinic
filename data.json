@@ -1,5 +1,32 @@
 [
   {
+    "id": "2e45a112-1a85-44a3-bca8-a8aa9a55a9e4",
+    "author": "김지연",
+    "title": "진쩌 나도 오랜만에",
+    "content": "파인애플 먹고싶다",
+    "board": "free",
+    "images": [],
+    "poll": {
+      "options": [
+        {
+          "id": "3d8a6b53-619d-4b9d-8b9d-46279977ccc9",
+          "text": "파인애풀",
+          "votes": []
+        },
+        {
+          "id": "74cdde6a-7814-4993-a7b0-e1cc0e2efdaa",
+          "text": "오랜지",
+          "votes": []
+        }
+      ]
+    },
+    "likes": 0,
+    "liked_by": [],
+    "comments": [],
+    "views": 0,
+    "createdAt": "2026-07-27T00:45:19.351962"
+  },
+  {
     "id": "1dca3ad8-ee1c-4f57-8955-4972d6331394",
     "author": "이예온",
     "title": "진짜 나도 오랜만에",
