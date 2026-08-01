@@ -114,7 +114,14 @@
     },
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "2612b739-2bea-4985-b515-5c3dc23705a0",
+        "author": "이예온",
+        "content": "? 이건 뭐냐",
+        "createdAt": "2026-08-01T13:29:36.593296"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-27T00:45:19.351962"
   },
