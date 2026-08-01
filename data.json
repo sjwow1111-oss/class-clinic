@@ -258,7 +258,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "d628112b-61f2-42a9-99b5-2d2055421a1f",
+        "author": "이예온",
+        "content": "반응없어서 시무룩한 태환이면 개추",
+        "createdAt": "2026-08-01T13:28:25.607338"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-07-26T08:51:19.079402"
   },
