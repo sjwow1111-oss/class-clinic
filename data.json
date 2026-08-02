@@ -9,7 +9,14 @@
     "poll": null,
     "likes": 0,
     "liked_by": [],
-    "comments": [],
+    "comments": [
+      {
+        "id": "25758fce-41b7-408e-aff9-11fc91d88e1d",
+        "author": "이예온",
+        "content": "? 개지랄",
+        "createdAt": "2026-08-02T03:08:53.899263"
+      }
+    ],
     "views": 0,
     "createdAt": "2026-08-01T13:32:06.760997"
   },
